@@ -1,0 +1,873 @@
+grant_title,id,organization,total_amount,group,Grant start date,start_month,start_day,start_year
+Greensboro,1,Guilford Co Schools,1589,high poverty,8/11/15 0:00,8,11,2015
+Durham,2,Durham Public School District,1239,low poverty,8/11/15 0:00,8,11,2015
+Barco,3,Currituck Co School District,1003,high poverty,8/11/15 0:00,8,11,2015
+Bailey,4,Nash-rocky Mt School District,1588,highest poverty,8/11/15 0:00,8,11,2015
+Goldsboro,5,Wayne Co Public School Dist,3579,moderate poverty,8/11/15 0:00,8,11,2015
+Charlotte,6,North Carolina Dept of Ed,1513,moderate poverty,8/8/15 0:00,8,8,2015
+Kernersville,7,Winston-salem Forsyth Co SD,2371,moderate poverty,8/5/15 0:00,8,5,2015
+Charlotte,8,Charlotte-mecklenburg Sch Dist,2197,highest poverty,8/5/15 0:00,8,5,2015
+Durham,9,Durham Public School District,1007,highest poverty,8/2/15 0:00,8,2,2015
+Morrisville,10,Wake Co School District,1562,low poverty,8/2/15 0:00,8,2,2015
+Burlington,11,North Carolina Dept of Ed,1052,moderate poverty,8/1/15 0:00,8,1,2015
+Louisburg,12,North Carolina Dept of Ed,1692,moderate poverty,7/31/15 0:00,7,31,2015
+Morrisville,13,Wake Co School District,1189,low poverty,7/30/15 0:00,7,30,2015
+Charlotte,14,Charlotte-mecklenburg Sch Dist,1178,high poverty,7/30/15 0:00,7,30,2015
+Chapel Hill,15,Chapel Hill-carrboro City SD,1402,moderate poverty,7/28/15 0:00,7,28,2015
+Asheville,16,North Carolina Dept of Ed,2499,moderate poverty,7/28/15 0:00,7,28,2015
+Havelock,17,Craven Co School District,1233,high poverty,7/27/15 0:00,7,27,2015
+Jamestown,18,Guilford Co Schools,1075,highest poverty,7/26/15 0:00,7,26,2015
+Charlotte,19,Charlotte-mecklenburg Sch Dist,1055,highest poverty,7/25/15 0:00,7,25,2015
+Charlotte,20,Charlotte-mecklenburg Sch Dist,1135,highest poverty,7/24/15 0:00,7,24,2015
+Raleigh,21,North Carolina Dept of Ed,2151,moderate poverty,7/24/15 0:00,7,24,2015
+Durham,22,Durham Public School District,1859,low poverty,7/22/15 0:00,7,22,2015
+Charlotte,23,Charlotte-mecklenburg Sch Dist,1046,highest poverty,7/17/15 0:00,7,17,2015
+Cary,24,Wake Co School District,1075,moderate poverty,7/14/15 0:00,7,14,2015
+Newport,25,Carteret Co School District,1058,moderate poverty,7/13/15 0:00,7,13,2015
+Durham,26,Durham Public School District,1200,highest poverty,7/13/15 0:00,7,13,2015
+Apex,27,Wake Co School District,1218,moderate poverty,7/13/15 0:00,7,13,2015
+King,28,Stokes Co School District,1416,high poverty,7/10/15 0:00,7,10,2015
+Marion,29,McDowell Co Sch District 580,1447,highest poverty,7/9/15 0:00,7,9,2015
+Lexington,30,Davidson Co School Dist,7944,high poverty,7/9/15 0:00,7,9,2015
+Davidson,31,North Carolina Dept of Ed,1358,low poverty,7/8/15 0:00,7,8,2015
+Charlotte,32,Charlotte-mecklenburg Sch Dist,1570,moderate poverty,7/8/15 0:00,7,8,2015
+Durham,33,Durham Public School District,1007,high poverty,7/2/15 0:00,7,2,2015
+Davidson,34,North Carolina Dept of Ed,2124,low poverty,6/27/15 0:00,6,27,2015
+King,35,Stokes Co School District,1505,high poverty,6/26/15 0:00,6,26,2015
+Raleigh,36,North Carolina Dept of Ed,1396,moderate poverty,6/25/15 0:00,6,25,2015
+Wilmington,37,New Hanover Co School District,1834,highest poverty,6/11/15 0:00,6,11,2015
+Old Fort,38,McDowell Co Sch District 580,1015,highest poverty,6/6/15 0:00,6,6,2015
+Goldsboro,39,Wayne Co Public School Dist,1235,moderate poverty,6/6/15 0:00,6,6,2015
+Raleigh,40,Wake Co School District,1007,moderate poverty,6/5/15 0:00,6,5,2015
+Gastonia,41,Gaston Co School District,1141,highest poverty,5/31/15 0:00,5,31,2015
+Durham,42,Durham Public School District,1472,highest poverty,5/30/15 0:00,5,30,2015
+Bolivia,43,Brunswick Co School District,1395,highest poverty,5/27/15 0:00,5,27,2015
+Charlotte,44,Charlotte-mecklenburg Sch Dist,1080,moderate poverty,5/27/15 0:00,5,27,2015
+Charlotte,45,Charlotte-mecklenburg Sch Dist,1169,highest poverty,5/23/15 0:00,5,23,2015
+Asheville,46,North Carolina Dept of Ed,1154,moderate poverty,5/22/15 0:00,5,22,2015
+Arden,47,Buncombe Co School District,1123,high poverty,5/21/15 0:00,5,21,2015
+Swannanoa,48,North Carolina Dept of Ed,1349,high poverty,5/20/15 0:00,5,20,2015
+Asheville,49,North Carolina Dept of Ed,1305,moderate poverty,5/19/15 0:00,5,19,2015
+Lexington,50,Davidson Co School Dist,5011,high poverty,5/14/15 0:00,5,14,2015
+Charlotte,51,Charlotte-mecklenburg Sch Dist,7398,moderate poverty,5/14/15 0:00,5,14,2015
+Smithfield,52,Johnston Co School District,1016,highest poverty,5/12/15 0:00,5,12,2015
+Apex,53,Wake Co School District,1500,moderate poverty,5/11/15 0:00,5,11,2015
+Charlotte,54,Charlotte-mecklenburg Sch Dist,1121,highest poverty,5/10/15 0:00,5,10,2015
+Durham,55,Durham Public School District,1084,highest poverty,5/9/15 0:00,5,9,2015
+Charlotte,56,Charlotte-mecklenburg Sch Dist,2123,high poverty,5/9/15 0:00,5,9,2015
+Warrenton,57,Warren Co School District,4574,highest poverty,5/9/15 0:00,5,9,2015
+Goldsboro,58,Wayne Co Public School Dist,1699,moderate poverty,5/4/15 0:00,5,4,2015
+Charlotte,59,Charlotte-mecklenburg Sch Dist,1509,highest poverty,5/3/15 0:00,5,3,2015
+Fayetteville,60,Cumberland Co School District,2034,moderate poverty,5/2/15 0:00,5,2,2015
+Hickory,61,Catawba Co School District,1026,high poverty,5/2/15 0:00,5,2,2015
+Elizabeth Cty,62,Elizabeth Cty-pasquotank Co SD,1518,high poverty,4/27/15 0:00,4,27,2015
+Raleigh,63,Wake Co School District,1084,high poverty,4/27/15 0:00,4,27,2015
+Charlotte,64,Charlotte-mecklenburg Sch Dist,1526,highest poverty,4/27/15 0:00,4,27,2015
+Apex,65,Wake Co School District,2032,moderate poverty,4/26/15 0:00,4,26,2015
+Durham,66,Durham Public School District,1032,highest poverty,4/25/15 0:00,4,25,2015
+Goldsboro,67,Wayne Co Public School Dist,4666,moderate poverty,4/25/15 0:00,4,25,2015
+Durham,68,Durham Public School District,2232,highest poverty,4/23/15 0:00,4,23,2015
+Burlington,69,Alamance-burlington Sch Dist,1463,high poverty,4/22/15 0:00,4,22,2015
+Cary,70,North Carolina Dept of Ed,1986,moderate poverty,4/17/15 0:00,4,17,2015
+Cleveland,71,Rowan-Salisbury School Dist,1696,high poverty,4/17/15 0:00,4,17,2015
+Asheville,72,Asheville City School District,1271,high poverty,4/17/15 0:00,4,17,2015
+Fayetteville,73,Cumberland Co School District,1095,high poverty,4/14/15 0:00,4,14,2015
+Durham,74,Durham Public School District,2433,highest poverty,4/14/15 0:00,4,14,2015
+Kannapolis,75,Kannapolis City School Dist,1877,highest poverty,4/13/15 0:00,4,13,2015
+Winston Salem,76,Winston-salem Forsyth Co SD,1172,high poverty,4/11/15 0:00,4,11,2015
+Weaverville,77,Buncombe Co School District,1184,high poverty,4/8/15 0:00,4,8,2015
+Durham,78,Durham Public School District,1090,highest poverty,4/7/15 0:00,4,7,2015
+Durham,79,Durham Public School District,1868,highest poverty,4/6/15 0:00,4,6,2015
+Charlotte,80,North Carolina Dept of Ed,1463,moderate poverty,4/6/15 0:00,4,6,2015
+Monroe,81,Union Co Public Schools,1202,highest poverty,4/4/15 0:00,4,4,2015
+Cary,82,North Carolina Dept of Ed,3078,moderate poverty,3/29/15 0:00,3,29,2015
+Charlotte,83,Charlotte-mecklenburg Sch Dist,1192,highest poverty,3/29/15 0:00,3,29,2015
+Charlotte,84,Charlotte-mecklenburg Sch Dist,1636,highest poverty,3/29/15 0:00,3,29,2015
+Durham,85,Durham Public School District,1435,highest poverty,3/28/15 0:00,3,28,2015
+Fayetteville,86,Cumberland Co School District,1106,high poverty,3/27/15 0:00,3,27,2015
+Gastonia,87,Gaston Co School District,1012,highest poverty,3/26/15 0:00,3,26,2015
+Havelock,88,Craven Co School District,1832,high poverty,3/26/15 0:00,3,26,2015
+Chapel Hill,89,Chapel Hill-carrboro City SD,1015,moderate poverty,3/25/15 0:00,3,25,2015
+Elizabeth Cty,90,Elizabeth Cty-pasquotank Co SD,1049,high poverty,3/23/15 0:00,3,23,2015
+Durham,91,Durham Public School District,1393,highest poverty,3/23/15 0:00,3,23,2015
+King,92,Stokes Co School District,1262,high poverty,3/22/15 0:00,3,22,2015
+Raleigh,93,North Carolina Dept of Ed,1212,moderate poverty,3/22/15 0:00,3,22,2015
+Zionville,94,Watauga Co School District,1106,high poverty,3/21/15 0:00,3,21,2015
+Holly Springs,95,Wake Co School District,1118,moderate poverty,3/21/15 0:00,3,21,2015
+Greensboro,96,Guilford Co Schools,1771,low poverty,3/20/15 0:00,3,20,2015
+Mount Airy,97,Surry Co School District,1402,highest poverty,3/19/15 0:00,3,19,2015
+Charlotte,98,Charlotte-mecklenburg Sch Dist,1189,highest poverty,3/17/15 0:00,3,17,2015
+Durham,99,Durham Public School District,2284,highest poverty,3/16/15 0:00,3,16,2015
+Concord,100,Cabarrus Co School District,1571,moderate poverty,3/16/15 0:00,3,16,2015
+Charlotte,101,Charlotte-mecklenburg Sch Dist,1605,highest poverty,3/15/15 0:00,3,15,2015
+Wagram,102,Scotland Co School District,1481,highest poverty,3/14/15 0:00,3,14,2015
+Swannanoa,103,North Carolina Dept of Ed,1096,high poverty,3/13/15 0:00,3,13,2015
+Wilson,104,North Carolina Dept of Ed,1754,moderate poverty,3/13/15 0:00,3,13,2015
+Charlotte,105,Charlotte-mecklenburg Sch Dist,1109,high poverty,3/11/15 0:00,3,11,2015
+Mint Hill,106,North Carolina Dept of Ed,2156,moderate poverty,3/10/15 0:00,3,10,2015
+Clayton,107,Johnston Co School District,1022,moderate poverty,3/8/15 0:00,3,8,2015
+Marshville,108,Union Co Public Schools,1573,highest poverty,3/8/15 0:00,3,8,2015
+Lenoir,109,Caldwell Co School District,2811,high poverty,3/8/15 0:00,3,8,2015
+Greensboro,110,Guilford Co Schools,1451,high poverty,3/7/15 0:00,3,7,2015
+Pittsboro,111,Chatham Co School District,1086,moderate poverty,3/6/15 0:00,3,6,2015
+Greensboro,112,Guilford Co Schools,1334,high poverty,3/6/15 0:00,3,6,2015
+Greensboro,113,Guilford Co Schools,1035,high poverty,3/5/15 0:00,3,5,2015
+Raleigh,114,Wake Co School District,1398,high poverty,3/4/15 0:00,3,4,2015
+Greensboro,115,Guilford Co Schools,1172,high poverty,3/3/15 0:00,3,3,2015
+Arden,116,Buncombe Co School District,1370,moderate poverty,3/2/15 0:00,3,2,2015
+Concord,117,Cabarrus Co School District,1477,moderate poverty,3/2/15 0:00,3,2,2015
+Kings Mtn,118,Cleveland Co School District,1314,high poverty,3/2/15 0:00,3,2,2015
+Burgaw,119,Pender Co School District,1987,highest poverty,3/1/15 0:00,3,1,2015
+Wilmington,120,North Carolina Dept of Ed,1210,moderate poverty,3/1/15 0:00,3,1,2015
+Charlotte,121,Charlotte-mecklenburg Sch Dist,1265,moderate poverty,3/1/15 0:00,3,1,2015
+Fayetteville,122,Cumberland Co School District,1257,high poverty,2/28/15 0:00,2,28,2015
+Charlotte,123,North Carolina Dept of Ed,1040,highest poverty,2/27/15 0:00,2,27,2015
+Charlotte,124,Charlotte-mecklenburg Sch Dist,1236,high poverty,2/27/15 0:00,2,27,2015
+Elizabeth Cty,125,Elizabeth Cty-pasquotank Co SD,1070,high poverty,2/26/15 0:00,2,26,2015
+Mc Leansville,126,Guilford Co Schools,1243,high poverty,2/26/15 0:00,2,26,2015
+Raleigh,127,Wake Co School District,1260,highest poverty,2/26/15 0:00,2,26,2015
+Wilson,128,Wilson Co School District,1426,high poverty,2/25/15 0:00,2,25,2015
+Raleigh,129,Wake Co School District,1141,moderate poverty,2/24/15 0:00,2,24,2015
+Raleigh,130,Wake Co School District,1488,high poverty,2/23/15 0:00,2,23,2015
+High Point,131,Guilford Co Schools,1895,highest poverty,2/23/15 0:00,2,23,2015
+Raleigh,132,Wake Co School District,1420,high poverty,2/23/15 0:00,2,23,2015
+Denver,133,North Carolina Dept of Ed,1288,moderate poverty,2/23/15 0:00,2,23,2015
+Concord,134,Cabarrus Co School District,1204,moderate poverty,2/22/15 0:00,2,22,2015
+Charlotte,135,Charlotte-mecklenburg Sch Dist,2302,highest poverty,2/21/15 0:00,2,21,2015
+Gibsonville,136,Guilford Co Schools,1888,highest poverty,2/21/15 0:00,2,21,2015
+Cary,137,Wake Co School District,1158,moderate poverty,2/20/15 0:00,2,20,2015
+Charlotte,138,Charlotte-mecklenburg Sch Dist,1743,high poverty,2/20/15 0:00,2,20,2015
+Raleigh,139,Wake Co School District,1503,moderate poverty,2/20/15 0:00,2,20,2015
+Durham,140,Durham Public School District,1256,highest poverty,2/20/15 0:00,2,20,2015
+Wendell,141,Wake Co School District,1604,high poverty,2/20/15 0:00,2,20,2015
+Waxhaw,142,Union Co Public Schools,1042,highest poverty,2/19/15 0:00,2,19,2015
+Littleton,143,Halifax Co School District,1204,highest poverty,2/19/15 0:00,2,19,2015
+Rocky Mount,144,Nash-rocky Mt School District,1313,highest poverty,2/18/15 0:00,2,18,2015
+Charlotte,145,Charlotte-mecklenburg Sch Dist,1689,high poverty,2/18/15 0:00,2,18,2015
+Charlotte,146,Charlotte-mecklenburg Sch Dist,1238,highest poverty,2/17/15 0:00,2,17,2015
+Charlotte,147,Charlotte-mecklenburg Sch Dist,1130,highest poverty,2/17/15 0:00,2,17,2015
+Asheville,148,Buncombe Co School District,1368,highest poverty,2/16/15 0:00,2,16,2015
+Hendersonvlle,149,Henderson Co Public Schools,1336,high poverty,2/16/15 0:00,2,16,2015
+Cary,150,Wake Co School District,3403,moderate poverty,2/15/15 0:00,2,15,2015
+Durham,151,Durham Public School District,1844,highest poverty,2/15/15 0:00,2,15,2015
+Charlotte,152,Charlotte-mecklenburg Sch Dist,1215,high poverty,2/14/15 0:00,2,14,2015
+Snow Hill,153,Greene Co School District,1005,highest poverty,2/14/15 0:00,2,14,2015
+Cary,154,Wake Co School District,6063,moderate poverty,2/14/15 0:00,2,14,2015
+Cary,155,Wake Co School District,2596,moderate poverty,2/10/15 0:00,2,10,2015
+Kings Mtn,156,Cleveland Co School District,1006,high poverty,2/10/15 0:00,2,10,2015
+Durham,157,Durham Public School District,1215,highest poverty,2/9/15 0:00,2,9,2015
+Charlotte,158,Charlotte-mecklenburg Sch Dist,1177,highest poverty,2/8/15 0:00,2,8,2015
+Bryson City,159,Swain Co School District,1130,high poverty,2/8/15 0:00,2,8,2015
+Durham,160,Durham Public School District,1318,highest poverty,2/8/15 0:00,2,8,2015
+Kings Mtn,161,Cleveland Co School District,1157,highest poverty,2/8/15 0:00,2,8,2015
+Chapel Hill,162,Chapel Hill-carrboro City SD,2527,moderate poverty,2/8/15 0:00,2,8,2015
+Asheville,163,North Carolina Dept of Ed,1494,moderate poverty,2/7/15 0:00,2,7,2015
+Fayetteville,164,Cumberland Co School District,2186,highest poverty,2/7/15 0:00,2,7,2015
+Greenville,165,Pitt Co School District,1433,highest poverty,2/7/15 0:00,2,7,2015
+Charlotte,166,Charlotte-mecklenburg Sch Dist,1875,moderate poverty,2/7/15 0:00,2,7,2015
+Wendell,167,Wake Co School District,1123,high poverty,2/6/15 0:00,2,6,2015
+Hickory,168,Catawba Co School District,1400,high poverty,2/6/15 0:00,2,6,2015
+Richlands,169,Onslow Co School District,1060,high poverty,2/4/15 0:00,2,4,2015
+Hickory,170,Catawba Co School District,1756,high poverty,2/3/15 0:00,2,3,2015
+Charlotte,171,Charlotte-mecklenburg Sch Dist,5294,high poverty,2/3/15 0:00,2,3,2015
+Havelock,172,Craven Co School District,1635,high poverty,2/2/15 0:00,2,2,2015
+Charlotte,173,Charlotte-mecklenburg Sch Dist,7397,high poverty,2/1/15 0:00,2,1,2015
+Greenville,174,Pitt Co School District,2025,high poverty,2/1/15 0:00,2,1,2015
+Andrews,175,Cherokee Co School District,1281,highest poverty,1/31/15 0:00,1,31,2015
+Cary,176,Wake Co School District,1761,moderate poverty,1/31/15 0:00,1,31,2015
+Pittsboro,177,Chatham Co School District,1944,high poverty,1/30/15 0:00,1,30,2015
+Charlotte,178,Charlotte-mecklenburg Sch Dist,1025,highest poverty,1/28/15 0:00,1,28,2015
+Asheville,179,Buncombe Co School District,1699,high poverty,1/28/15 0:00,1,28,2015
+Newland,180,Avery Co School District,1313,high poverty,1/28/15 0:00,1,28,2015
+Charlotte,181,Charlotte-mecklenburg Sch Dist,1937,highest poverty,1/27/15 0:00,1,27,2015
+Havelock,182,Craven Co School District,1475,high poverty,1/26/15 0:00,1,26,2015
+Saxapahaw,183,North Carolina Dept of Ed,2664,moderate poverty,1/26/15 0:00,1,26,2015
+Charlotte,184,Charlotte-mecklenburg Sch Dist,1101,high poverty,1/26/15 0:00,1,26,2015
+Charlotte,185,Charlotte-mecklenburg Sch Dist,1398,high poverty,1/26/15 0:00,1,26,2015
+Richlands,186,Onslow Co School District,1114,high poverty,1/26/15 0:00,1,26,2015
+Charlotte,187,North Carolina Dept of Ed,1499,moderate poverty,1/25/15 0:00,1,25,2015
+Durham,188,Durham Public School District,1759,high poverty,1/25/15 0:00,1,25,2015
+Asheville,189,Asheville City School District,1692,high poverty,1/25/15 0:00,1,25,2015
+Charlotte,190,Charlotte-mecklenburg Sch Dist,1365,high poverty,1/25/15 0:00,1,25,2015
+Greensboro,191,Guilford Co Schools,1038,high poverty,1/25/15 0:00,1,25,2015
+Charlotte,192,North Carolina Dept of Ed,1512,moderate poverty,1/25/15 0:00,1,25,2015
+Chapel Hill,193,Chapel Hill-carrboro City SD,2344,moderate poverty,1/24/15 0:00,1,24,2015
+Mooresville,194,North Carolina Dept of Ed,1049,low poverty,1/24/15 0:00,1,24,2015
+Raleigh,195,Wake Co School District,1463,high poverty,1/22/15 0:00,1,22,2015
+Winston Salem,196,Winston-salem Forsyth Co SD,1039,highest poverty,1/21/15 0:00,1,21,2015
+Goldsboro,197,North Carolina Dept of Ed,1182,moderate poverty,1/18/15 0:00,1,18,2015
+Charlotte,198,Charlotte-mecklenburg Sch Dist,1981,high poverty,1/18/15 0:00,1,18,2015
+Hudson,199,Caldwell Co School District,3996,high poverty,1/17/15 0:00,1,17,2015
+Raleigh,200,Wake Co School District,9576,high poverty,1/17/15 0:00,1,17,2015
+Asheville,201,Asheville City School District,1295,high poverty,1/17/15 0:00,1,17,2015
+Pfafftown,202,Winston-salem Forsyth Co SD,1061,moderate poverty,1/17/15 0:00,1,17,2015
+Charlotte,203,Charlotte-mecklenburg Sch Dist,1058,moderate poverty,1/17/15 0:00,1,17,2015
+Asheville,204,Buncombe Co School District,1498,high poverty,1/16/15 0:00,1,16,2015
+Charlotte,205,Charlotte-mecklenburg Sch Dist,6798,high poverty,1/16/15 0:00,1,16,2015
+Mooresville,206,North Carolina Dept of Ed,1694,low poverty,1/16/15 0:00,1,16,2015
+Winston Salem,207,North Carolina Dept of Ed,1153,moderate poverty,1/16/15 0:00,1,16,2015
+Wake Forest,208,Wake Co School District,1882,moderate poverty,1/15/15 0:00,1,15,2015
+Bayboro,209,Pamlico Co School District,1626,highest poverty,1/14/15 0:00,1,14,2015
+Clemmons,210,Winston-salem Forsyth Co SD,1200,moderate poverty,1/13/15 0:00,1,13,2015
+Raleigh,211,Wake Co School District,7672,high poverty,1/12/15 0:00,1,12,2015
+Asheville,212,Buncombe Co School District,1473,high poverty,1/11/15 0:00,1,11,2015
+Hudson,213,Caldwell Co School District,1778,high poverty,1/11/15 0:00,1,11,2015
+Leland,214,Brunswick Co School District,1830,moderate poverty,1/11/15 0:00,1,11,2015
+Raleigh,215,Wake Co School District,2200,moderate poverty,1/11/15 0:00,1,11,2015
+Charlotte,216,Charlotte-mecklenburg Sch Dist,3996,high poverty,1/10/15 0:00,1,10,2015
+Hiddenite,217,Alexander Co School District,1858,highest poverty,1/9/15 0:00,1,9,2015
+Asheville,218,Buncombe Co School District,1013,high poverty,1/8/15 0:00,1,8,2015
+Kernersville,219,North Carolina Dept of Ed,1484,moderate poverty,1/8/15 0:00,1,8,2015
+Durham,220,Durham Public School District,1596,highest poverty,1/6/15 0:00,1,6,2015
+Raleigh,221,Wake Co School District,6755,high poverty,1/6/15 0:00,1,6,2015
+Wake Forest,222,Wake Co School District,1964,moderate poverty,1/5/15 0:00,1,5,2015
+Greenville,223,Pitt Co School District,2124,highest poverty,1/5/15 0:00,1,5,2015
+Durham,224,Durham Public School District,9999,highest poverty,1/5/15 0:00,1,5,2015
+Swannanoa,225,Buncombe Co School District,1466,high poverty,1/4/15 0:00,1,4,2015
+Conover,226,Newton-conover City Sch Dist,2181,high poverty,1/2/15 0:00,1,2,2015
+Raleigh,227,Wake Co School District,2060,moderate poverty,1/2/15 0:00,1,2,2015
+Durham,228,Durham Public School District,1387,highest poverty,1/2/15 0:00,1,2,2015
+Conover,229,Newton-conover City Sch Dist,1955,high poverty,1/2/15 0:00,1,2,2015
+Asheville,230,North Carolina Dept of Ed,1869,moderate poverty,12/29/14 0:00,12,29,2014
+Walkertown,231,Winston-salem Forsyth Co SD,1546,highest poverty,12/29/14 0:00,12,29,2014
+Durham,232,Durham Public School District,1691,highest poverty,12/28/14 0:00,12,28,2014
+Durham,233,Durham Public School District,1475,highest poverty,12/27/14 0:00,12,27,2014
+Apex,234,Wake Co School District,1170,moderate poverty,12/24/14 0:00,12,24,2014
+Battleboro,235,Edgecombe Co Pub Sch Dist,1064,highest poverty,12/22/14 0:00,12,22,2014
+Asheville,236,Buncombe Co School District,2999,high poverty,12/18/14 0:00,12,18,2014
+Charlotte,237,Charlotte-mecklenburg Sch Dist,1175,high poverty,12/17/14 0:00,12,17,2014
+Charlotte,238,Charlotte-mecklenburg Sch Dist,1004,highest poverty,12/16/14 0:00,12,16,2014
+Asheville,239,Buncombe Co School District,1338,high poverty,12/15/14 0:00,12,15,2014
+Durham,240,North Carolina Dept of Ed,1789,moderate poverty,12/14/14 0:00,12,14,2014
+Weaverville,241,Buncombe Co School District,1341,high poverty,12/13/14 0:00,12,13,2014
+Newport,242,Carteret Co School District,1158,moderate poverty,12/13/14 0:00,12,13,2014
+Kannapolis,243,Kannapolis City School Dist,2039,highest poverty,12/13/14 0:00,12,13,2014
+Raleigh,244,Wake Co School District,1397,high poverty,12/12/14 0:00,12,12,2014
+Asheville,245,Buncombe Co School District,1436,high poverty,12/11/14 0:00,12,11,2014
+Durham,246,Durham Public School District,1057,highest poverty,12/10/14 0:00,12,10,2014
+Durham,247,Durham Public School District,1267,highest poverty,12/10/14 0:00,12,10,2014
+Matthews,248,Charlotte-mecklenburg Sch Dist,1399,high poverty,12/9/14 0:00,12,9,2014
+Pilot Mtn,249,Surry Co School District,2362,high poverty,12/8/14 0:00,12,8,2014
+Arden,250,Buncombe Co School District,1002,moderate poverty,12/6/14 0:00,12,6,2014
+Smithfield,251,Johnston Co School District,2397,high poverty,12/6/14 0:00,12,6,2014
+Clemmons,252,Winston-salem Forsyth Co SD,2414,moderate poverty,12/6/14 0:00,12,6,2014
+Concord,253,Cabarrus Co School District,1058,moderate poverty,12/5/14 0:00,12,5,2014
+Burlington,254,Alamance-burlington Sch Dist,1160,highest poverty,12/5/14 0:00,12,5,2014
+Halifax,255,Weldon City School District,2045,highest poverty,12/5/14 0:00,12,5,2014
+Saint Pauls,256,Robeson Co Public School Dist,2314,highest poverty,12/5/14 0:00,12,5,2014
+Mooresville,257,Mooresville Graded Sch Dist,1420,moderate poverty,12/3/14 0:00,12,3,2014
+Charlotte,258,Charlotte-mecklenburg Sch Dist,1396,highest poverty,12/2/14 0:00,12,2,2014
+Raleigh,259,Wake Co School District,2679,moderate poverty,12/1/14 0:00,12,1,2014
+Asheville,260,Buncombe Co School District,1701,high poverty,11/29/14 0:00,11,29,2014
+Durham,261,Durham Public School District,4435,highest poverty,11/29/14 0:00,11,29,2014
+Cary,262,Wake Co School District,1183,high poverty,11/26/14 0:00,11,26,2014
+Durham,263,Durham Public School District,1418,highest poverty,11/24/14 0:00,11,24,2014
+Charlotte,264,Charlotte-mecklenburg Sch Dist,1177,high poverty,11/24/14 0:00,11,24,2014
+Cary,265,Wake Co School District,2866,high poverty,11/23/14 0:00,11,23,2014
+Lexington,266,Davidson Co School Dist,1139,moderate poverty,11/23/14 0:00,11,23,2014
+Asheville,267,North Carolina Dept of Ed,1294,moderate poverty,11/23/14 0:00,11,23,2014
+Raleigh,268,North Carolina Dept of Ed,1754,moderate poverty,11/23/14 0:00,11,23,2014
+Winston Salem,269,North Carolina Dept of Ed,1008,moderate poverty,11/23/14 0:00,11,23,2014
+Chapel Hill,270,Chapel Hill-carrboro City SD,1176,moderate poverty,11/22/14 0:00,11,22,2014
+Conover,271,Newton-conover City Sch Dist,2259,high poverty,11/22/14 0:00,11,22,2014
+Greensboro,272,Guilford Co Schools,2167,highest poverty,11/20/14 0:00,11,20,2014
+Burlington,273,Alamance-burlington Sch Dist,1202,moderate poverty,11/20/14 0:00,11,20,2014
+Conover,274,Newton-conover City Sch Dist,2246,high poverty,11/20/14 0:00,11,20,2014
+Morrisville,275,Wake Co School District,1106,low poverty,11/20/14 0:00,11,20,2014
+Burlington,276,Alamance-burlington Sch Dist,2543,highest poverty,11/20/14 0:00,11,20,2014
+Graham,277,Alamance-burlington Sch Dist,1051,moderate poverty,11/19/14 0:00,11,19,2014
+Shelby,278,Cleveland Co School District,1030,highest poverty,11/18/14 0:00,11,18,2014
+Wake Forest,279,North Carolina Dept of Ed,2183,moderate poverty,11/18/14 0:00,11,18,2014
+Newton,280,Newton-conover City Sch Dist,1281,highest poverty,11/18/14 0:00,11,18,2014
+Apex,281,Wake Co School District,1248,moderate poverty,11/18/14 0:00,11,18,2014
+Cary,282,Wake Co School District,1939,low poverty,11/18/14 0:00,11,18,2014
+Asheville,283,Buncombe Co School District,1787,high poverty,11/17/14 0:00,11,17,2014
+Charlotte,284,Charlotte-mecklenburg Sch Dist,1211,highest poverty,11/17/14 0:00,11,17,2014
+Asheville,285,Buncombe Co School District,2049,high poverty,11/17/14 0:00,11,17,2014
+Cary,286,Wake Co School District,1854,low poverty,11/16/14 0:00,11,16,2014
+Raleigh,287,Wake Co School District,3204,moderate poverty,11/16/14 0:00,11,16,2014
+Asheville,288,North Carolina Dept of Ed,1023,moderate poverty,11/16/14 0:00,11,16,2014
+Matthews,289,Charlotte-mecklenburg Sch Dist,2397,high poverty,11/16/14 0:00,11,16,2014
+Matthews,290,Union Co Public Schools,1682,moderate poverty,11/16/14 0:00,11,16,2014
+Morganton,291,Burke Co School District,1099,high poverty,11/16/14 0:00,11,16,2014
+Cary,292,Wake Co School District,1747,low poverty,11/16/14 0:00,11,16,2014
+Greensboro,293,Guilford Co Schools,2349,highest poverty,11/15/14 0:00,11,15,2014
+Roseboro,294,Sampson Co School District,1814,highest poverty,11/15/14 0:00,11,15,2014
+Wilmington,295,New Hanover Co School District,1022,high poverty,11/15/14 0:00,11,15,2014
+Hampstead,296,Pender Co School District,1207,moderate poverty,11/14/14 0:00,11,14,2014
+Raleigh,297,Wake Co School District,3378,moderate poverty,11/13/14 0:00,11,13,2014
+Denver,298,North Carolina Dept of Ed,1056,moderate poverty,11/13/14 0:00,11,13,2014
+Charlotte,299,Charlotte-mecklenburg Sch Dist,1578,high poverty,11/13/14 0:00,11,13,2014
+Burlington,300,Alamance-burlington Sch Dist,1564,moderate poverty,11/12/14 0:00,11,12,2014
+Durham,301,Durham Public School District,1256,high poverty,11/11/14 0:00,11,11,2014
+Richlands,302,Onslow Co School District,1093,moderate poverty,11/11/14 0:00,11,11,2014
+Greenville,303,Pitt Co School District,1459,highest poverty,11/10/14 0:00,11,10,2014
+Conover,304,Newton-conover City Sch Dist,2259,high poverty,11/10/14 0:00,11,10,2014
+Jamestown,305,Guilford Co Schools,1177,high poverty,11/9/14 0:00,11,9,2014
+Smithfield,306,Johnston Co School District,1218,high poverty,11/9/14 0:00,11,9,2014
+Charlotte,307,Charlotte-mecklenburg Sch Dist,1004,highest poverty,11/8/14 0:00,11,8,2014
+Durham,308,Durham Public School District,1331,highest poverty,11/8/14 0:00,11,8,2014
+Raleigh,309,Wake Co School District,1314,moderate poverty,11/8/14 0:00,11,8,2014
+Newland,310,Avery Co School District,1488,high poverty,11/8/14 0:00,11,8,2014
+Lumberton,311,Robeson Co Public School Dist,3886,highest poverty,11/8/14 0:00,11,8,2014
+Raleigh,312,Wake Co School District,1315,moderate poverty,11/7/14 0:00,11,7,2014
+Charlotte,313,Charlotte-mecklenburg Sch Dist,1620,highest poverty,11/7/14 0:00,11,7,2014
+High Point,314,Guilford Co Schools,1894,highest poverty,11/3/14 0:00,11,3,2014
+Charlotte,315,Charlotte-mecklenburg Sch Dist,1538,highest poverty,11/2/14 0:00,11,2,2014
+Goldsboro,316,Wayne Co Public School Dist,1062,moderate poverty,11/2/14 0:00,11,2,2014
+Kannapolis,317,Kannapolis City School Dist,4268,highest poverty,10/30/14 0:00,10,30,2014
+Cary,318,Wake Co School District,1013,moderate poverty,10/28/14 0:00,10,28,2014
+Chapel Hill,319,Chapel Hill-carrboro City SD,1045,moderate poverty,10/27/14 0:00,10,27,2014
+Mount Airy,320,Surry Co School District,1065,high poverty,10/27/14 0:00,10,27,2014
+Asheville,321,North Carolina Dept of Ed,1253,moderate poverty,10/27/14 0:00,10,27,2014
+Cary,322,Wake Co School District,1752,moderate poverty,10/27/14 0:00,10,27,2014
+Charlotte,323,Charlotte-mecklenburg Sch Dist,1339,highest poverty,10/27/14 0:00,10,27,2014
+Mount Airy,324,Surry Co School District,1085,high poverty,10/26/14 0:00,10,26,2014
+Greenville,325,Pitt Co School District,1115,highest poverty,10/26/14 0:00,10,26,2014
+Chapel Hill,326,Chapel Hill-carrboro City SD,1193,moderate poverty,10/26/14 0:00,10,26,2014
+Newton Grove,327,Sampson Co School District,1103,highest poverty,10/25/14 0:00,10,25,2014
+Asheville,328,North Carolina Dept of Ed,1862,moderate poverty,10/23/14 0:00,10,23,2014
+Charlotte,329,Charlotte-mecklenburg Sch Dist,1393,highest poverty,10/23/14 0:00,10,23,2014
+Charlotte,330,Charlotte-mecklenburg Sch Dist,1145,highest poverty,10/23/14 0:00,10,23,2014
+Greensboro,331,Guilford Co Schools,1920,high poverty,10/22/14 0:00,10,22,2014
+Mount Airy,332,Surry Co School District,1321,highest poverty,10/22/14 0:00,10,22,2014
+Charlotte,333,North Carolina Dept of Ed,2140,moderate poverty,10/21/14 0:00,10,21,2014
+Winston Salem,334,Winston-salem Forsyth Co SD,1380,highest poverty,10/21/14 0:00,10,21,2014
+Morehead City,335,Carteret Co School District,1172,high poverty,10/21/14 0:00,10,21,2014
+Charlotte,336,Charlotte-mecklenburg Sch Dist,1380,highest poverty,10/21/14 0:00,10,21,2014
+Concord,337,Cabarrus Co School District,1192,moderate poverty,10/21/14 0:00,10,21,2014
+Burlington,338,Alamance-burlington Sch Dist,1040,highest poverty,10/20/14 0:00,10,20,2014
+Biscoe,339,Montgomery Co School District,1618,highest poverty,10/20/14 0:00,10,20,2014
+Asheville,340,Asheville City School District,1211,high poverty,10/19/14 0:00,10,19,2014
+Snow Camp,341,Alamance-burlington Sch Dist,1748,high poverty,10/19/14 0:00,10,19,2014
+Hope Mills,342,Cumberland Co School District,1321,high poverty,10/19/14 0:00,10,19,2014
+Charlotte,343,Charlotte-mecklenburg Sch Dist,1347,high poverty,10/19/14 0:00,10,19,2014
+Raleigh,344,Wake Co School District,6792,moderate poverty,10/19/14 0:00,10,19,2014
+Snow Hill,345,Greene Co School District,1381,highest poverty,10/18/14 0:00,10,18,2014
+New Bern,346,Craven Co School District,1021,highest poverty,10/14/14 0:00,10,14,2014
+Louisburg,347,Franklin Co School District,1418,highest poverty,10/14/14 0:00,10,14,2014
+Charlotte,348,Charlotte-mecklenburg Sch Dist,1141,high poverty,10/12/14 0:00,10,12,2014
+Semora,349,Person Co School District,1074,high poverty,10/12/14 0:00,10,12,2014
+Asheville,350,Buncombe Co School District,1789,high poverty,10/12/14 0:00,10,12,2014
+Siler City,351,Chatham Co School District,1963,highest poverty,10/11/14 0:00,10,11,2014
+Raleigh,352,Wake Co School District,2170,moderate poverty,10/11/14 0:00,10,11,2014
+Durham,353,North Carolina Dept of Ed,1021,moderate poverty,10/11/14 0:00,10,11,2014
+Charlotte,354,Charlotte-mecklenburg Sch Dist,2004,high poverty,10/11/14 0:00,10,11,2014
+Raleigh,355,Wake Co School District,1044,moderate poverty,10/11/14 0:00,10,11,2014
+Lincolnton,356,Lincoln Co School District,1946,highest poverty,10/10/14 0:00,10,10,2014
+Raleigh,357,Wake Co School District,2159,high poverty,10/9/14 0:00,10,9,2014
+Charlotte,358,Charlotte-mecklenburg Sch Dist,1131,highest poverty,10/8/14 0:00,10,8,2014
+Washington,359,Beaufort Co School District,1038,highest poverty,10/8/14 0:00,10,8,2014
+Matthews,360,Charlotte-mecklenburg Sch Dist,1144,high poverty,10/8/14 0:00,10,8,2014
+Oxford,361,Granville Co School District,1028,highest poverty,10/7/14 0:00,10,7,2014
+Durham,362,Durham Public School District,4913,highest poverty,10/6/14 0:00,10,6,2014
+Concord,363,Cabarrus Co School District,1192,moderate poverty,10/5/14 0:00,10,5,2014
+Rocky Mount,364,Nash-rocky Mt School District,1708,highest poverty,10/5/14 0:00,10,5,2014
+Charlotte,365,Charlotte-mecklenburg Sch Dist,1058,highest poverty,10/5/14 0:00,10,5,2014
+Winston Salem,366,North Carolina Dept of Ed,1502,moderate poverty,10/5/14 0:00,10,5,2014
+Durham,367,Durham Public School District,1193,highest poverty,10/5/14 0:00,10,5,2014
+Lincolnton,368,Lincoln Co School District,1008,highest poverty,10/4/14 0:00,10,4,2014
+Charlotte,369,Charlotte-mecklenburg Sch Dist,1073,high poverty,10/4/14 0:00,10,4,2014
+Asheville,370,Buncombe Co School District,2589,highest poverty,10/3/14 0:00,10,3,2014
+Shelby,371,Cleveland Co School District,1161,highest poverty,10/3/14 0:00,10,3,2014
+Durham,372,Durham Public School District,2133,highest poverty,10/1/14 0:00,10,1,2014
+N Wilkesboro,373,Wilkes Co School District,1107,highest poverty,10/1/14 0:00,10,1,2014
+Mooresville,374,Mooresville Graded Sch Dist,1833,high poverty,9/30/14 0:00,9,30,2014
+Raleigh,375,North Carolina Dept of Ed,1216,moderate poverty,9/30/14 0:00,9,30,2014
+Colfax,376,Guilford Co Schools,1958,high poverty,9/29/14 0:00,9,29,2014
+Lincolnton,377,Lincoln Co School District,1974,highest poverty,9/28/14 0:00,9,28,2014
+Boone,378,Watauga Co School District,1874,high poverty,9/28/14 0:00,9,28,2014
+Cary,379,Wake Co School District,1862,moderate poverty,9/27/14 0:00,9,27,2014
+Charlotte,380,Charlotte-mecklenburg Sch Dist,1990,high poverty,9/27/14 0:00,9,27,2014
+Charlotte,381,Charlotte-mecklenburg Sch Dist,1005,highest poverty,9/27/14 0:00,9,27,2014
+Asheville,382,Buncombe Co School District,1065,high poverty,9/27/14 0:00,9,27,2014
+Pilot Mtn,383,Surry Co School District,1240,high poverty,9/26/14 0:00,9,26,2014
+Durham,384,Durham Public School District,1962,highest poverty,9/26/14 0:00,9,26,2014
+Raleigh,385,North Carolina Dept of Ed,1828,moderate poverty,9/25/14 0:00,9,25,2014
+Durham,386,Durham Public School District,1800,highest poverty,9/25/14 0:00,9,25,2014
+Winston Salem,387,North Carolina Dept of Ed,1566,moderate poverty,9/24/14 0:00,9,24,2014
+Wake Forest,388,North Carolina Dept of Ed,1192,moderate poverty,9/24/14 0:00,9,24,2014
+Apex,389,Wake Co School District,1451,moderate poverty,9/24/14 0:00,9,24,2014
+Charlotte,390,Charlotte-mecklenburg Sch Dist,2125,high poverty,9/23/14 0:00,9,23,2014
+Colfax,391,Guilford Co Schools,1788,high poverty,9/23/14 0:00,9,23,2014
+Charlotte,392,Charlotte-mecklenburg Sch Dist,1260,highest poverty,9/23/14 0:00,9,23,2014
+Semora,393,Person Co School District,1802,high poverty,9/21/14 0:00,9,21,2014
+Vass,394,North Carolina Dept of Ed,2393,highest poverty,9/21/14 0:00,9,21,2014
+Charlotte,395,Charlotte-mecklenburg Sch Dist,1025,high poverty,9/21/14 0:00,9,21,2014
+Raeford,396,Hoke Co School District,1342,moderate poverty,9/21/14 0:00,9,21,2014
+Raleigh,397,Wake Co School District,1039,highest poverty,9/20/14 0:00,9,20,2014
+Charlotte,398,North Carolina Dept of Ed,1147,moderate poverty,9/20/14 0:00,9,20,2014
+Durham,399,Durham Public School District,2039,highest poverty,9/19/14 0:00,9,19,2014
+Canton,400,Haywood Co School District,1027,highest poverty,9/19/14 0:00,9,19,2014
+Liberty,401,Randolph Co School District,1157,high poverty,9/19/14 0:00,9,19,2014
+Charlotte,402,Charlotte-mecklenburg Sch Dist,1870,high poverty,9/18/14 0:00,9,18,2014
+Washington,403,Beaufort Co School District,1632,highest poverty,9/17/14 0:00,9,17,2014
+Kannapolis,404,Kannapolis City School Dist,1141,highest poverty,9/17/14 0:00,9,17,2014
+Gaston,405,North Carolina Dept of Ed,1023,highest poverty,9/17/14 0:00,9,17,2014
+Charlotte,406,Charlotte-mecklenburg Sch Dist,1056,highest poverty,9/15/14 0:00,9,15,2014
+Burlington,407,Alamance-burlington Sch Dist,1049,highest poverty,9/15/14 0:00,9,15,2014
+Apex,408,Wake Co School District,1328,moderate poverty,9/14/14 0:00,9,14,2014
+Asheville,409,North Carolina Dept of Ed,1699,moderate poverty,9/14/14 0:00,9,14,2014
+Laurinburg,410,Scotland Co School District,1150,highest poverty,9/14/14 0:00,9,14,2014
+Burlington,411,Alamance-burlington Sch Dist,2175,highest poverty,9/14/14 0:00,9,14,2014
+Matthews,412,Charlotte-mecklenburg Sch Dist,1002,high poverty,9/13/14 0:00,9,13,2014
+Durham,413,Durham Public School District,2246,highest poverty,9/12/14 0:00,9,12,2014
+Rocky Mount,414,Nash-rocky Mt School District,1263,highest poverty,9/12/14 0:00,9,12,2014
+Apex,415,Wake Co School District,1098,moderate poverty,9/11/14 0:00,9,11,2014
+Charlotte,416,North Carolina Dept of Ed,1142,moderate poverty,9/11/14 0:00,9,11,2014
+Charlotte,417,Charlotte-mecklenburg Sch Dist,1202,highest poverty,9/10/14 0:00,9,10,2014
+Asheville,418,North Carolina Dept of Ed,2239,moderate poverty,9/10/14 0:00,9,10,2014
+Charlotte,419,Charlotte-mecklenburg Sch Dist,2534,high poverty,9/9/14 0:00,9,9,2014
+Gaston,420,North Carolina Dept of Ed,1046,highest poverty,9/7/14 0:00,9,7,2014
+Charlotte,421,North Carolina Dept of Ed,2631,moderate poverty,9/7/14 0:00,9,7,2014
+Charlotte,422,North Carolina Dept of Ed,1249,moderate poverty,9/7/14 0:00,9,7,2014
+Charlotte,423,Charlotte-mecklenburg Sch Dist,2170,highest poverty,9/7/14 0:00,9,7,2014
+Mount Holly,424,North Carolina Dept of Ed,1984,moderate poverty,9/7/14 0:00,9,7,2014
+Newton,425,Newton-conover City Sch Dist,1060,highest poverty,9/6/14 0:00,9,6,2014
+Charlotte,426,North Carolina Dept of Ed,1020,moderate poverty,9/6/14 0:00,9,6,2014
+Winston Salem,427,Winston-salem Forsyth Co SD,1939,high poverty,9/6/14 0:00,9,6,2014
+Matthews,428,Charlotte-mecklenburg Sch Dist,2225,high poverty,9/6/14 0:00,9,6,2014
+Wilmington,429,New Hanover Co School District,2394,highest poverty,9/5/14 0:00,9,5,2014
+Elizabeth Cty,430,Elizabeth Cty-pasquotank Co SD,1198,highest poverty,9/1/14 0:00,9,1,2014
+Halifax,431,Weldon City School District,2591,highest poverty,8/31/14 0:00,8,31,2014
+Wilmington,432,New Hanover Co School District,1033,high poverty,8/31/14 0:00,8,31,2014
+Charlotte,433,North Carolina Dept of Ed,1054,moderate poverty,8/30/14 0:00,8,30,2014
+N Wilkesboro,434,Wilkes Co School District,1150,highest poverty,8/30/14 0:00,8,30,2014
+Clayton,435,Johnston Co School District,1793,moderate poverty,8/30/14 0:00,8,30,2014
+Swannanoa,436,North Carolina Dept of Ed,1227,high poverty,8/29/14 0:00,8,29,2014
+Asheboro,437,Asheboro City School District,1395,highest poverty,8/29/14 0:00,8,29,2014
+Clinton,438,Sampson Co School District,1180,highest poverty,8/29/14 0:00,8,29,2014
+Stantonsburg,439,Wilson Co School District,1799,highest poverty,8/29/14 0:00,8,29,2014
+Matthews,440,Charlotte-mecklenburg Sch Dist,2569,high poverty,8/29/14 0:00,8,29,2014
+Cary,441,Wake Co School District,1935,moderate poverty,8/29/14 0:00,8,29,2014
+Concord,442,Cabarrus Co School District,1934,high poverty,8/28/14 0:00,8,28,2014
+Asheville,443,North Carolina Dept of Ed,1615,moderate poverty,8/28/14 0:00,8,28,2014
+Jacksonville,444,Onslow Co School District,1293,highest poverty,8/28/14 0:00,8,28,2014
+Oxford,445,Granville Co School District,1120,high poverty,8/27/14 0:00,8,27,2014
+Wilmington,446,North Carolina Dept of Ed,1008,moderate poverty,8/26/14 0:00,8,26,2014
+Henderson,447,Vance Co School District,1121,highest poverty,8/26/14 0:00,8,26,2014
+Durham,448,Durham Public School District,2276,highest poverty,8/25/14 0:00,8,25,2014
+Charlotte,449,Charlotte-mecklenburg Sch Dist,1576,high poverty,8/24/14 0:00,8,24,2014
+Browns Summit,450,Guilford Co Schools,1093,highest poverty,8/24/14 0:00,8,24,2014
+Charlotte,451,Charlotte-mecklenburg Sch Dist,1231,moderate poverty,8/24/14 0:00,8,24,2014
+Forest City,452,Rutherford Co School District,1244,highest poverty,8/24/14 0:00,8,24,2014
+Davidson,453,North Carolina Dept of Ed,1138,low poverty,8/24/14 0:00,8,24,2014
+Charlotte,454,North Carolina Dept of Ed,1234,moderate poverty,8/24/14 0:00,8,24,2014
+Matthews,455,Charlotte-mecklenburg Sch Dist,2357,high poverty,8/24/14 0:00,8,24,2014
+Greensboro,456,Guilford Co Schools,1103,high poverty,8/24/14 0:00,8,24,2014
+Charlotte,457,North Carolina Dept of Ed,1701,moderate poverty,8/24/14 0:00,8,24,2014
+Charlotte,458,North Carolina Dept of Ed,1026,moderate poverty,8/24/14 0:00,8,24,2014
+Marion,459,McDowell Co Sch District 580,1134,highest poverty,8/24/14 0:00,8,24,2014
+Roaring River,460,Wilkes Co School District,1461,highest poverty,8/24/14 0:00,8,24,2014
+Charlotte,461,North Carolina Dept of Ed,1153,moderate poverty,8/24/14 0:00,8,24,2014
+Davidson,462,Charlotte-mecklenburg Sch Dist,2056,low poverty,8/24/14 0:00,8,24,2014
+Charlotte,463,North Carolina Dept of Ed,1364,moderate poverty,8/23/14 0:00,8,23,2014
+Browns Summit,464,Guilford Co Schools,1141,high poverty,8/23/14 0:00,8,23,2014
+Winston Salem,465,Winston-salem Forsyth Co SD,1590,highest poverty,8/23/14 0:00,8,23,2014
+Charlotte,466,North Carolina Dept of Ed,1123,moderate poverty,8/23/14 0:00,8,23,2014
+Charlotte,467,Charlotte-mecklenburg Sch Dist,1468,highest poverty,8/23/14 0:00,8,23,2014
+Trinity,468,Randolph Co School District,1013,high poverty,8/23/14 0:00,8,23,2014
+Burlington,469,Alamance-burlington Sch Dist,1103,highest poverty,8/23/14 0:00,8,23,2014
+Rocky Mount,470,Nash-rocky Mt School District,1001,highest poverty,8/22/14 0:00,8,22,2014
+Clayton,471,Johnston Co School District,1374,moderate poverty,8/22/14 0:00,8,22,2014
+Charlotte,472,Charlotte-mecklenburg Sch Dist,1767,highest poverty,8/22/14 0:00,8,22,2014
+Asheville,473,Asheville City School District,2099,high poverty,8/22/14 0:00,8,22,2014
+Newport,474,Carteret Co School District,1549,moderate poverty,8/22/14 0:00,8,22,2014
+Elizabeth Cty,475,Elizabeth Cty-pasquotank Co SD,1496,high poverty,8/21/14 0:00,8,21,2014
+Winston Salem,476,North Carolina Dept of Ed,1393,moderate poverty,8/20/14 0:00,8,20,2014
+Durham,477,Durham Public School District,1331,highest poverty,8/20/14 0:00,8,20,2014
+Wilmington,478,New Hanover Co School District,1705,high poverty,8/20/14 0:00,8,20,2014
+Cornelius,479,North Carolina Dept of Ed,1030,moderate poverty,8/20/14 0:00,8,20,2014
+Charlotte,480,Charlotte-mecklenburg Sch Dist,2524,high poverty,8/20/14 0:00,8,20,2014
+Cary,481,Wake Co School District,1685,moderate poverty,8/20/14 0:00,8,20,2014
+Winston Salem,482,North Carolina Dept of Ed,1294,moderate poverty,8/19/14 0:00,8,19,2014
+Raleigh,483,North Carolina Dept of Ed,1982,moderate poverty,8/19/14 0:00,8,19,2014
+Charlotte,484,North Carolina Dept of Ed,1002,moderate poverty,8/19/14 0:00,8,19,2014
+Newton,485,Catawba Co School District,1647,high poverty,8/19/14 0:00,8,19,2014
+Mooresville,486,Mooresville Graded Sch Dist,2814,moderate poverty,8/18/14 0:00,8,18,2014
+New Bern,487,Craven Co School District,1038,high poverty,8/17/14 0:00,8,17,2014
+Castle Hayne,488,New Hanover Co School District,2448,high poverty,8/17/14 0:00,8,17,2014
+Asheville,489,North Carolina Dept of Ed,2503,moderate poverty,8/17/14 0:00,8,17,2014
+Monroe,490,Union Co Public Schools,1082,highest poverty,8/17/14 0:00,8,17,2014
+Charlotte,491,North Carolina Dept of Ed,1772,moderate poverty,8/16/14 0:00,8,16,2014
+Wilmington,492,New Hanover Co School District,1577,highest poverty,8/16/14 0:00,8,16,2014
+Charlotte,493,Charlotte-mecklenburg Sch Dist,1016,highest poverty,8/16/14 0:00,8,16,2014
+Shelby,494,Cleveland Co School District,1242,highest poverty,8/16/14 0:00,8,16,2014
+Davidson,495,North Carolina Dept of Ed,3541,low poverty,8/16/14 0:00,8,16,2014
+Gastonia,496,Gaston Co School District,1101,highest poverty,8/16/14 0:00,8,16,2014
+Charlotte,497,Charlotte-mecklenburg Sch Dist,1122,highest poverty,8/16/14 0:00,8,16,2014
+Apex,498,Wake Co School District,1063,moderate poverty,8/16/14 0:00,8,16,2014
+Charlotte,499,Charlotte-mecklenburg Sch Dist,2187,highest poverty,8/16/14 0:00,8,16,2014
+Durham,500,Durham Public School District,1079,highest poverty,8/15/14 0:00,8,15,2014
+Morganton,501,Burke Co School District,1452,highest poverty,8/15/14 0:00,8,15,2014
+Angier,502,Harnett Co School District,1005,highest poverty,8/15/14 0:00,8,15,2014
+Clemmons,503,Winston-salem Forsyth Co SD,1930,high poverty,8/14/14 0:00,8,14,2014
+Apex,504,Wake Co School District,1125,moderate poverty,8/14/14 0:00,8,14,2014
+Kannapolis,505,Kannapolis City School Dist,2241,highest poverty,8/14/14 0:00,8,14,2014
+Greensboro,506,Guilford Co Schools,1404,highest poverty,8/14/14 0:00,8,14,2014
+McLeansville,507,Guilford Co Schools,1008,highest poverty,8/14/14 0:00,8,14,2014
+Concord,508,North Carolina Dept of Ed,1066,moderate poverty,8/13/14 0:00,8,13,2014
+Charlotte,509,Charlotte-mecklenburg Sch Dist,2373,highest poverty,8/11/14 0:00,8,11,2014
+Charlotte,510,Charlotte-mecklenburg Sch Dist,1148,high poverty,8/10/14 0:00,8,10,2014
+King,511,Stokes Co School District,1242,high poverty,8/9/14 0:00,8,9,2014
+Fayetteville,512,Cumberland Co School District,1124,high poverty,8/9/14 0:00,8,9,2014
+Greensboro,513,Guilford Co Schools,1213,highest poverty,8/9/14 0:00,8,9,2014
+Charlotte,514,Charlotte-mecklenburg Sch Dist,2420,highest poverty,8/8/14 0:00,8,8,2014
+Wake Forest,515,North Carolina Dept of Ed,1708,moderate poverty,8/7/14 0:00,8,7,2014
+Clinton,516,Sampson Co School District,1060,highest poverty,8/6/14 0:00,8,6,2014
+E Flat Rock,517,Henderson Co Public Schools,1462,highest poverty,8/5/14 0:00,8,5,2014
+King,518,Stokes Co School District,1835,high poverty,8/3/14 0:00,8,3,2014
+Cary,519,Wake Co School District,1256,high poverty,8/2/14 0:00,8,2,2014
+Efland,520,Orange Co School District,1236,high poverty,7/31/14 0:00,7,31,2014
+Hope Mills,521,Cumberland Co School District,3029,high poverty,7/30/14 0:00,7,30,2014
+Roxboro,522,Person Co School District,2012,highest poverty,7/30/14 0:00,7,30,2014
+Vale,523,Catawba Co School District,1808,high poverty,7/29/14 0:00,7,29,2014
+Troutman,524,Iredell-statesville Sch Dist,1051,high poverty,7/29/14 0:00,7,29,2014
+Charlotte,525,Charlotte-mecklenburg Sch Dist,1107,high poverty,7/29/14 0:00,7,29,2014
+Apex,526,Wake Co School District,1193,moderate poverty,7/29/14 0:00,7,29,2014
+Charlotte,527,Charlotte-mecklenburg Sch Dist,1934,moderate poverty,7/28/14 0:00,7,28,2014
+Burlington,528,Alamance-burlington Sch Dist,1174,highest poverty,7/25/14 0:00,7,25,2014
+Burgaw,529,Pender Co School District,1137,high poverty,7/23/14 0:00,7,23,2014
+Concord,530,Cabarrus Co School District,1513,high poverty,7/22/14 0:00,7,22,2014
+Charlotte,531,Charlotte-mecklenburg Sch Dist,1035,highest poverty,7/22/14 0:00,7,22,2014
+Murphy,532,Cherokee Co School District,2012,highest poverty,7/21/14 0:00,7,21,2014
+Charlotte,533,Charlotte-mecklenburg Sch Dist,1290,high poverty,7/20/14 0:00,7,20,2014
+Charlotte,534,Charlotte-mecklenburg Sch Dist,1098,highest poverty,7/20/14 0:00,7,20,2014
+Charlotte,535,Charlotte-mecklenburg Sch Dist,1010,low poverty,7/16/14 0:00,7,16,2014
+Durham,536,Durham Public School District,1089,highest poverty,7/13/14 0:00,7,13,2014
+Efland,537,Orange Co School District,2015,high poverty,7/13/14 0:00,7,13,2014
+Durham,538,Durham Public School District,1012,highest poverty,7/12/14 0:00,7,12,2014
+Smithfield,539,Johnston Co School District,1213,highest poverty,7/11/14 0:00,7,11,2014
+Charlotte,540,Charlotte-mecklenburg Sch Dist,2563,highest poverty,7/10/14 0:00,7,10,2014
+Raeford,541,Hoke Co School District,1933,moderate poverty,7/10/14 0:00,7,10,2014
+Raleigh,542,Wake Co School District,1074,moderate poverty,7/8/14 0:00,7,8,2014
+Raleigh,543,Wake Co School District,1115,moderate poverty,7/5/14 0:00,7,5,2014
+Cary,544,Wake Co School District,2067,moderate poverty,7/5/14 0:00,7,5,2014
+Newport,545,Carteret Co School District,1353,high poverty,7/3/14 0:00,7,3,2014
+Asheville,546,Buncombe Co School District,1071,high poverty,6/27/14 0:00,6,27,2014
+Raleigh,547,Wake Co School District,2487,high poverty,6/27/14 0:00,6,27,2014
+Knightdale,548,Wake Co School District,1043,high poverty,6/27/14 0:00,6,27,2014
+Morrisville,549,Wake Co School District,1600,moderate poverty,6/26/14 0:00,6,26,2014
+Weaverville,550,Buncombe Co School District,1109,high poverty,6/24/14 0:00,6,24,2014
+Charlotte,551,North Carolina Dept of Ed,1032,moderate poverty,6/24/14 0:00,6,24,2014
+Ennice,552,Alleghany Co School District,1165,highest poverty,6/24/14 0:00,6,24,2014
+Arden,553,Buncombe Co School District,1061,high poverty,6/24/14 0:00,6,24,2014
+Walkertown,554,Winston-salem Forsyth Co SD,5274,high poverty,6/23/14 0:00,6,23,2014
+Cary,555,Wake Co School District,1882,moderate poverty,6/20/14 0:00,6,20,2014
+Matthews,556,North Carolina Dept of Ed,1123,moderate poverty,6/19/14 0:00,6,19,2014
+Burlington,557,Alamance-burlington Sch Dist,1392,highest poverty,6/16/14 0:00,6,16,2014
+Elizabeth Cty,558,Elizabeth Cty-pasquotank Co SD,1503,highest poverty,6/15/14 0:00,6,15,2014
+Lucama,559,Wilson Co School District,1574,high poverty,6/15/14 0:00,6,15,2014
+Stanley,560,Gaston Co School District,1897,high poverty,6/15/14 0:00,6,15,2014
+Graham,561,Alamance-burlington Sch Dist,1565,highest poverty,6/14/14 0:00,6,14,2014
+Oxford,562,Granville Co School District,1073,highest poverty,6/13/14 0:00,6,13,2014
+Charlotte,563,Charlotte-mecklenburg Sch Dist,1064,high poverty,6/12/14 0:00,6,12,2014
+Charlotte,564,Charlotte-mecklenburg Sch Dist,2123,moderate poverty,6/1/14 0:00,6,1,2014
+Charlotte,565,Charlotte-mecklenburg Sch Dist,1111,highest poverty,5/30/14 0:00,5,30,2014
+Durham,566,Durham Public School District,1477,highest poverty,5/23/14 0:00,5,23,2014
+Charlotte,567,Charlotte-mecklenburg Sch Dist,1140,highest poverty,5/16/14 0:00,5,16,2014
+Biscoe,568,Montgomery Co School District,1300,highest poverty,5/15/14 0:00,5,15,2014
+Biscoe,569,Montgomery Co School District,2776,highest poverty,5/15/14 0:00,5,15,2014
+Havelock,570,Craven Co School District,1507,high poverty,5/13/14 0:00,5,13,2014
+Wilmington,571,New Hanover Co School District,1849,high poverty,5/11/14 0:00,5,11,2014
+Winston Salem,572,Winston-salem Forsyth Co SD,1402,highest poverty,5/11/14 0:00,5,11,2014
+Winston Salem,573,Winston-salem Forsyth Co SD,1317,highest poverty,5/10/14 0:00,5,10,2014
+Apex,574,Wake Co School District,1189,moderate poverty,5/9/14 0:00,5,9,2014
+Jacksonville,575,Onslow Co School District,1287,highest poverty,5/9/14 0:00,5,9,2014
+Hickory,576,Catawba Co School District,1575,high poverty,5/7/14 0:00,5,7,2014
+Whiteville,577,Whiteville City Sch District,1576,highest poverty,5/5/14 0:00,5,5,2014
+Burlington,578,Alamance-burlington Sch Dist,2058,moderate poverty,5/5/14 0:00,5,5,2014
+Fletcher,579,Buncombe Co School District,1168,moderate poverty,4/29/14 0:00,4,29,2014
+Charlotte,580,North Carolina Dept of Ed,1587,moderate poverty,4/28/14 0:00,4,28,2014
+Charlotte,581,Charlotte-mecklenburg Sch Dist,1065,highest poverty,4/26/14 0:00,4,26,2014
+Siler City,582,Chatham Co School District,1021,moderate poverty,4/22/14 0:00,4,22,2014
+Charlotte,583,Charlotte-mecklenburg Sch Dist,1639,highest poverty,4/21/14 0:00,4,21,2014
+Winston Salem,584,North Carolina Dept of Ed,1925,moderate poverty,4/18/14 0:00,4,18,2014
+Durham,585,Durham Public School District,1378,highest poverty,4/15/14 0:00,4,15,2014
+Charlotte,586,Charlotte-mecklenburg Sch Dist,1281,highest poverty,4/15/14 0:00,4,15,2014
+Asheville,587,Buncombe Co School District,4380,high poverty,4/10/14 0:00,4,10,2014
+Wilmington,588,North Carolina Dept of Ed,1051,moderate poverty,4/9/14 0:00,4,9,2014
+Wilmington,589,New Hanover Co School District,1980,highest poverty,4/7/14 0:00,4,7,2014
+Greensboro,590,Guilford Co Schools,1721,highest poverty,4/6/14 0:00,4,6,2014
+Durham,591,Durham Public School District,1214,highest poverty,4/4/14 0:00,4,4,2014
+Warrenton,592,Warren Co School District,1294,highest poverty,4/2/14 0:00,4,2,2014
+Greensboro,593,Guilford Co Schools,1744,highest poverty,4/2/14 0:00,4,2,2014
+Biscoe,594,Montgomery Co School District,1326,highest poverty,3/30/14 0:00,3,30,2014
+Conover,595,Catawba Co School District,1260,highest poverty,3/30/14 0:00,3,30,2014
+Durham,596,Durham Public School District,2597,highest poverty,3/29/14 0:00,3,29,2014
+Asheboro,597,Randolph Co School District,1119,highest poverty,3/29/14 0:00,3,29,2014
+Charlotte,598,Charlotte-mecklenburg Sch Dist,1307,highest poverty,3/29/14 0:00,3,29,2014
+Whiteville,599,Whiteville City Sch District,10933,highest poverty,3/28/14 0:00,3,28,2014
+Raleigh,600,Wake Co School District,2632,moderate poverty,3/27/14 0:00,3,27,2014
+Winston Salem,601,North Carolina Dept of Ed,1802,moderate poverty,3/26/14 0:00,3,26,2014
+Wendell,602,Wake Co School District,1835,high poverty,3/26/14 0:00,3,26,2014
+Jamesville,603,North Carolina Dept of Ed,2619,moderate poverty,3/25/14 0:00,3,25,2014
+Charlotte,604,North Carolina Dept of Ed,1045,moderate poverty,3/24/14 0:00,3,24,2014
+Shelby,605,North Carolina Dept of Ed,1373,moderate poverty,3/24/14 0:00,3,24,2014
+Shelby,606,North Carolina Dept of Ed,1461,moderate poverty,3/23/14 0:00,3,23,2014
+Greensboro,607,Guilford Co Schools,1161,highest poverty,3/22/14 0:00,3,22,2014
+Denver,608,Lincoln Co School District,1495,moderate poverty,3/22/14 0:00,3,22,2014
+Salisbury,609,Rowan-Salisbury School Dist,1565,highest poverty,3/22/14 0:00,3,22,2014
+Asheboro,610,Randolph Co School District,1893,high poverty,3/21/14 0:00,3,21,2014
+Rocky Mount,611,Nash-rocky Mt School District,1215,highest poverty,3/19/14 0:00,3,19,2014
+Charlotte,612,Charlotte-mecklenburg Sch Dist,1023,moderate poverty,3/19/14 0:00,3,19,2014
+Maiden,613,Catawba Co School District,2416,high poverty,3/19/14 0:00,3,19,2014
+China Grove,614,Rowan-Salisbury School Dist,1464,high poverty,3/19/14 0:00,3,19,2014
+Durham,615,Durham Public School District,1498,highest poverty,3/19/14 0:00,3,19,2014
+Charlotte,616,Charlotte-mecklenburg Sch Dist,1383,highest poverty,3/18/14 0:00,3,18,2014
+Mc Leansville,617,Guilford Co Schools,1742,high poverty,3/18/14 0:00,3,18,2014
+Durham,618,Durham Public School District,2383,highest poverty,3/17/14 0:00,3,17,2014
+Charlotte,619,Charlotte-mecklenburg Sch Dist,2636,highest poverty,3/17/14 0:00,3,17,2014
+Matthews,620,Charlotte-mecklenburg Sch Dist,2669,high poverty,3/17/14 0:00,3,17,2014
+Charlotte,621,Charlotte-mecklenburg Sch Dist,2326,high poverty,3/17/14 0:00,3,17,2014
+Roxboro,622,Person Co School District,1932,highest poverty,3/16/14 0:00,3,16,2014
+Fayetteville,623,Cumberland Co School District,1514,high poverty,3/16/14 0:00,3,16,2014
+Cary,624,Wake Co School District,1544,high poverty,3/15/14 0:00,3,15,2014
+Kernersville,625,Winston-salem Forsyth Co SD,1551,high poverty,3/14/14 0:00,3,14,2014
+Greensboro,626,Guilford Co Schools,1065,highest poverty,3/14/14 0:00,3,14,2014
+Hiddenite,627,Alexander Co School District,1086,high poverty,3/14/14 0:00,3,14,2014
+Davidson,628,North Carolina Dept of Ed,5841,low poverty,3/13/14 0:00,3,13,2014
+Reidsville,629,Rockingham Co School District,1062,high poverty,3/12/14 0:00,3,12,2014
+Durham,630,Durham Public School District,1468,highest poverty,3/12/14 0:00,3,12,2014
+Durham,631,Durham Public School District,1464,highest poverty,3/11/14 0:00,3,11,2014
+Graham,632,Alamance-burlington Sch Dist,1380,highest poverty,3/11/14 0:00,3,11,2014
+Gastonia,633,Gaston Co School District,2064,highest poverty,3/11/14 0:00,3,11,2014
+Kannapolis,634,Kannapolis City School Dist,2226,highest poverty,3/10/14 0:00,3,10,2014
+Charlotte,635,Charlotte-mecklenburg Sch Dist,1075,highest poverty,3/9/14 0:00,3,9,2014
+Cary,636,Wake Co School District,1387,high poverty,3/8/14 0:00,3,8,2014
+Denver,637,Lincoln Co School District,1657,moderate poverty,3/8/14 0:00,3,8,2014
+Raleigh,638,Wake Co School District,1122,high poverty,3/8/14 0:00,3,8,2014
+Durham,639,Durham Public School District,1690,high poverty,3/8/14 0:00,3,8,2014
+Swannanoa,640,North Carolina Dept of Ed,1186,high poverty,3/8/14 0:00,3,8,2014
+Roxboro,641,Person Co School District,2207,highest poverty,3/8/14 0:00,3,8,2014
+Durham,642,Durham Public School District,1599,high poverty,3/7/14 0:00,3,7,2014
+Elizabeth Cty,643,Elizabeth Cty-pasquotank Co SD,1493,high poverty,3/7/14 0:00,3,7,2014
+Marion,644,McDowell Co Sch District 580,1412,high poverty,3/7/14 0:00,3,7,2014
+Charlotte,645,Charlotte-mecklenburg Sch Dist,1223,highest poverty,3/7/14 0:00,3,7,2014
+Greensboro,646,Guilford Co Schools,2329,moderate poverty,3/7/14 0:00,3,7,2014
+Elizabeth Cty,647,Elizabeth Cty-pasquotank Co SD,1988,high poverty,3/7/14 0:00,3,7,2014
+Raleigh,648,Wake Co School District,1197,moderate poverty,3/7/14 0:00,3,7,2014
+Durham,649,Durham Public School District,1168,highest poverty,3/6/14 0:00,3,6,2014
+Wilmington,650,New Hanover Co School District,1057,high poverty,3/6/14 0:00,3,6,2014
+Shelby,651,Cleveland Co School District,2102,high poverty,3/6/14 0:00,3,6,2014
+Charlotte,652,Charlotte-mecklenburg Sch Dist,3645,highest poverty,3/6/14 0:00,3,6,2014
+Mc Leansville,653,Guilford Co Schools,1110,high poverty,3/6/14 0:00,3,6,2014
+Marshville,654,Union Co Public Schools,2618,highest poverty,3/5/14 0:00,3,5,2014
+Hickory,655,Hickory Public Schools,1505,highest poverty,3/4/14 0:00,3,4,2014
+Durham,656,Durham Public School District,1030,highest poverty,3/3/14 0:00,3,3,2014
+Charlotte,657,Charlotte-mecklenburg Sch Dist,1935,highest poverty,2/28/14 0:00,2,28,2014
+Durham,658,Durham Public School District,1021,highest poverty,2/28/14 0:00,2,28,2014
+Hudson,659,Caldwell Co School District,1094,high poverty,2/27/14 0:00,2,27,2014
+Durham,660,Durham Public School District,1091,highest poverty,2/23/14 0:00,2,23,2014
+Kannapolis,661,Kannapolis City School Dist,2359,highest poverty,2/22/14 0:00,2,22,2014
+Middlesex,662,Nash-rocky Mt School District,1145,highest poverty,2/21/14 0:00,2,21,2014
+Halifax,663,Weldon City School District,2124,highest poverty,2/19/14 0:00,2,19,2014
+Sanford,664,Lee Co Schools,1467,highest poverty,2/18/14 0:00,2,18,2014
+Durham,665,Durham Public School District,1191,highest poverty,2/17/14 0:00,2,17,2014
+Havelock,666,Craven Co School District,1119,highest poverty,2/16/14 0:00,2,16,2014
+Greensboro,667,Guilford Co Schools,1386,highest poverty,2/15/14 0:00,2,15,2014
+Snow Camp,668,Alamance-burlington Sch Dist,2636,high poverty,2/10/14 0:00,2,10,2014
+Siler City,669,Chatham Co School District,1958,highest poverty,2/8/14 0:00,2,8,2014
+Fletcher,670,Buncombe Co School District,7072,moderate poverty,2/7/14 0:00,2,7,2014
+Monroe,671,Union Co Public Schools,1149,highest poverty,2/6/14 0:00,2,6,2014
+Albemarle,672,Stanly Co School District,1362,highest poverty,2/5/14 0:00,2,5,2014
+Newton,673,Newton-conover City Sch Dist,2375,highest poverty,2/5/14 0:00,2,5,2014
+Greenville,674,Pitt Co School District,1458,highest poverty,2/4/14 0:00,2,4,2014
+Durham,675,North Carolina Dept of Ed,2636,moderate poverty,2/3/14 0:00,2,3,2014
+Charlotte,676,Charlotte-mecklenburg Sch Dist,1519,highest poverty,2/3/14 0:00,2,3,2014
+Mount Holly,677,North Carolina Dept of Ed,1250,moderate poverty,2/3/14 0:00,2,3,2014
+Raleigh,678,Wake Co School District,1591,moderate poverty,1/27/14 0:00,1,27,2014
+Creedmoor,679,Granville Co School District,1467,high poverty,1/27/14 0:00,1,27,2014
+Matthews,680,North Carolina Dept of Ed,2453,moderate poverty,1/26/14 0:00,1,26,2014
+Wilmington,681,New Hanover Co School District,1296,highest poverty,1/25/14 0:00,1,25,2014
+Salisbury,682,Rowan-Salisbury School Dist,1065,highest poverty,1/21/14 0:00,1,21,2014
+Durham,683,Durham Public School District,2625,highest poverty,1/21/14 0:00,1,21,2014
+Arden,684,Buncombe Co School District,2621,high poverty,1/19/14 0:00,1,19,2014
+Raeford,685,Hoke Co School District,2968,moderate poverty,1/19/14 0:00,1,19,2014
+Rocky Mount,686,Nash-rocky Mt School District,1160,highest poverty,1/17/14 0:00,1,17,2014
+Charlotte,687,Charlotte-mecklenburg Sch Dist,1261,highest poverty,1/16/14 0:00,1,16,2014
+Charlotte,688,North Carolina Dept of Ed,1418,moderate poverty,1/12/14 0:00,1,12,2014
+Oxford,689,Granville Co School District,1411,highest poverty,1/11/14 0:00,1,11,2014
+Valdese,690,Burke Co School District,2849,high poverty,1/10/14 0:00,1,10,2014
+Winston Salem,691,Winston-salem Forsyth Co SD,1510,highest poverty,1/8/14 0:00,1,8,2014
+Charlotte,692,Charlotte-mecklenburg Sch Dist,9912,highest poverty,1/8/14 0:00,1,8,2014
+Rosman,693,Transylvania Co School Dist,2688,highest poverty,1/7/14 0:00,1,7,2014
+Greenville,694,Pitt Co School District,2725,highest poverty,1/7/14 0:00,1,7,2014
+Charlotte,695,Charlotte-mecklenburg Sch Dist,1514,high poverty,1/7/14 0:00,1,7,2014
+Rocky Mount,696,Nash-rocky Mt School District,1300,highest poverty,1/6/14 0:00,1,6,2014
+Charlotte,697,Charlotte-mecklenburg Sch Dist,2281,high poverty,1/6/14 0:00,1,6,2014
+Richlands,698,Onslow Co School District,1004,high poverty,1/5/14 0:00,1,5,2014
+Swannanoa,699,Buncombe Co School District,1479,high poverty,1/5/14 0:00,1,5,2014
+Plymouth,700,Washington Co School District,1008,highest poverty,1/4/14 0:00,1,4,2014
+Troy,701,Montgomery Co School District,1233,highest poverty,1/2/14 0:00,1,2,2014
+Asheville,702,Buncombe Co School District,2623,low poverty,12/31/13 0:00,12,31,2013
+Wilmington,703,New Hanover Co School District,1174,high poverty,12/29/13 0:00,12,29,2013
+High Point,704,Guilford Co Schools,1021,highest poverty,12/21/13 0:00,12,21,2013
+Charlotte,705,Charlotte-mecklenburg Sch Dist,1630,high poverty,12/20/13 0:00,12,20,2013
+Raleigh,706,Wake Co School District,1087,moderate poverty,12/18/13 0:00,12,18,2013
+Raleigh,707,Wake Co School District,1070,moderate poverty,12/18/13 0:00,12,18,2013
+Graham,708,Alamance-burlington Sch Dist,2638,highest poverty,12/16/13 0:00,12,16,2013
+Durham,709,Durham Public School District,1843,highest poverty,12/15/13 0:00,12,15,2013
+Durham,710,Durham Public School District,1311,highest poverty,12/15/13 0:00,12,15,2013
+Roxboro,711,Person Co School District,1826,highest poverty,12/11/13 0:00,12,11,2013
+Charlotte,712,Charlotte-mecklenburg Sch Dist,1009,highest poverty,12/10/13 0:00,12,10,2013
+High Point,713,Guilford Co Schools,1938,highest poverty,12/9/13 0:00,12,9,2013
+Charlotte,714,Charlotte-mecklenburg Sch Dist,1042,highest poverty,12/9/13 0:00,12,9,2013
+Greenville,715,Pitt Co School District,7997,high poverty,12/8/13 0:00,12,8,2013
+Charlotte,716,Charlotte-mecklenburg Sch Dist,1379,highest poverty,12/5/13 0:00,12,5,2013
+Newton,717,Newton-conover City Sch Dist,2574,highest poverty,12/4/13 0:00,12,4,2013
+Charlotte,718,Charlotte-mecklenburg Sch Dist,10000,highest poverty,12/3/13 0:00,12,3,2013
+Hillsborough,719,Orange Co School District,1518,high poverty,11/30/13 0:00,11,30,2013
+Mebane,720,Alamance-burlington Sch Dist,1150,high poverty,11/30/13 0:00,11,30,2013
+Raleigh,721,Wake Co School District,4173,high poverty,11/30/13 0:00,11,30,2013
+Creedmoor,722,Granville Co School District,1074,high poverty,11/30/13 0:00,11,30,2013
+Charlotte,723,Charlotte-mecklenburg Sch Dist,1189,high poverty,11/30/13 0:00,11,30,2013
+Raleigh,724,Wake Co School District,1226,low poverty,11/27/13 0:00,11,27,2013
+Gastonia,725,Gaston Co School District,1467,highest poverty,11/26/13 0:00,11,26,2013
+Lexington,726,Davidson Co School Dist,2624,high poverty,11/26/13 0:00,11,26,2013
+Huntersville,727,Charlotte-mecklenburg Sch Dist,7409,high poverty,11/25/13 0:00,11,25,2013
+Newport,728,Carteret Co School District,1463,high poverty,11/25/13 0:00,11,25,2013
+Durham,729,Durham Public School District,2613,highest poverty,11/24/13 0:00,11,24,2013
+Pineville,730,Charlotte-mecklenburg Sch Dist,1101,high poverty,11/22/13 0:00,11,22,2013
+Charlotte,731,Charlotte-mecklenburg Sch Dist,1367,highest poverty,11/21/13 0:00,11,21,2013
+Mooresville,732,Mooresville Graded Sch Dist,1344,high poverty,11/21/13 0:00,11,21,2013
+Reidsville,733,Rockingham Co School District,2241,highest poverty,11/21/13 0:00,11,21,2013
+Reidsville,734,Rockingham Co School District,2636,high poverty,11/20/13 0:00,11,20,2013
+Aberdeen,735,North Carolina Dept of Ed,2617,high poverty,11/18/13 0:00,11,18,2013
+Charlotte,736,Charlotte-mecklenburg Sch Dist,2550,high poverty,11/17/13 0:00,11,17,2013
+Clyde,737,Haywood Co School District,2636,high poverty,11/17/13 0:00,11,17,2013
+Arden,738,Buncombe Co School District,2622,high poverty,11/17/13 0:00,11,17,2013
+Charlotte,739,Charlotte-mecklenburg Sch Dist,1051,high poverty,11/17/13 0:00,11,17,2013
+Salisbury,740,Rowan-Salisbury School Dist,2636,high poverty,11/17/13 0:00,11,17,2013
+Boone,741,Watauga Co School District,1170,high poverty,11/17/13 0:00,11,17,2013
+Greensboro,742,Guilford Co Schools,2636,highest poverty,11/16/13 0:00,11,16,2013
+Charlotte,743,Charlotte-mecklenburg Sch Dist,1476,highest poverty,11/16/13 0:00,11,16,2013
+Smithfield,744,Johnston Co School District,2627,highest poverty,11/16/13 0:00,11,16,2013
+Efland,745,Orange Co School District,2633,high poverty,11/16/13 0:00,11,16,2013
+Fayetteville,746,Cumberland Co School District,2636,highest poverty,11/16/13 0:00,11,16,2013
+Charlotte,747,Charlotte-mecklenburg Sch Dist,2632,highest poverty,11/16/13 0:00,11,16,2013
+McLeansville,748,Guilford Co Schools,2627,highest poverty,11/16/13 0:00,11,16,2013
+Salisbury,749,Rowan-Salisbury School Dist,2636,high poverty,11/15/13 0:00,11,15,2013
+Creedmoor,750,Granville Co School District,2622,high poverty,11/15/13 0:00,11,15,2013
+Aberdeen,751,North Carolina Dept of Ed,2636,high poverty,11/15/13 0:00,11,15,2013
+Durham,752,Durham Public School District,2623,highest poverty,11/15/13 0:00,11,15,2013
+Warrenton,753,Warren Co School District,2628,highest poverty,11/15/13 0:00,11,15,2013
+Charlotte,754,Charlotte-mecklenburg Sch Dist,2626,highest poverty,11/15/13 0:00,11,15,2013
+Bryson City,755,Swain Co School District,2622,high poverty,11/15/13 0:00,11,15,2013
+Charlotte,756,Charlotte-mecklenburg Sch Dist,2632,highest poverty,11/15/13 0:00,11,15,2013
+Charlotte,757,Charlotte-mecklenburg Sch Dist,2636,highest poverty,11/14/13 0:00,11,14,2013
+High Point,758,Guilford Co Schools,2636,highest poverty,11/14/13 0:00,11,14,2013
+Charlotte,759,Charlotte-mecklenburg Sch Dist,2629,highest poverty,11/14/13 0:00,11,14,2013
+Burlington,760,Alamance-burlington Sch Dist,2636,highest poverty,11/14/13 0:00,11,14,2013
+Gastonia,761,Gaston Co School District,2636,highest poverty,11/14/13 0:00,11,14,2013
+Charlotte,762,Charlotte-mecklenburg Sch Dist,8999,high poverty,11/13/13 0:00,11,13,2013
+Davidson,763,North Carolina Dept of Ed,2625,low poverty,11/13/13 0:00,11,13,2013
+Durham,764,Durham Public School District,2256,highest poverty,11/11/13 0:00,11,11,2013
+Wake Forest,765,Wake Co School District,3199,moderate poverty,11/8/13 0:00,11,8,2013
+Thomasville,766,Thomasville City School Dist,3722,highest poverty,11/6/13 0:00,11,6,2013
+Morganton,767,Burke Co School District,1202,high poverty,10/31/13 0:00,10,31,2013
+Charlotte,768,Charlotte-mecklenburg Sch Dist,3895,highest poverty,10/29/13 0:00,10,29,2013
+Charlotte,769,Charlotte-mecklenburg Sch Dist,6890,high poverty,10/27/13 0:00,10,27,2013
+Aberdeen,770,North Carolina Dept of Ed,2617,high poverty,10/20/13 0:00,10,20,2013
+Bryson City,771,Swain Co School District,1001,high poverty,10/19/13 0:00,10,19,2013
+Jamestown,772,Guilford Co Schools,1193,high poverty,10/16/13 0:00,10,16,2013
+Charlotte,773,Charlotte-mecklenburg Sch Dist,1212,high poverty,10/14/13 0:00,10,14,2013
+Raleigh,774,Wake Co School District,8439,highest poverty,10/6/13 0:00,10,6,2013
+Cary,775,Wake Co School District,1125,moderate poverty,10/5/13 0:00,10,5,2013
+Waxhaw,776,Union Co Public Schools,1012,high poverty,10/5/13 0:00,10,5,2013
+Charlotte,777,Charlotte-mecklenburg Sch Dist,1037,highest poverty,10/4/13 0:00,10,4,2013
+Durham,778,Durham Public School District,1235,highest poverty,10/3/13 0:00,10,3,2013
+Greensboro,779,Guilford Co Schools,1078,highest poverty,9/28/13 0:00,9,28,2013
+Raleigh,780,Wake Co School District,8679,moderate poverty,9/26/13 0:00,9,26,2013
+Asheville,781,Buncombe Co School District,2163,high poverty,9/20/13 0:00,9,20,2013
+Charlotte,782,Charlotte-mecklenburg Sch Dist,1562,highest poverty,9/20/13 0:00,9,20,2013
+Greensboro,783,Guilford Co Schools,1070,highest poverty,9/17/13 0:00,9,17,2013
+Durham,784,Durham Public School District,1431,high poverty,9/17/13 0:00,9,17,2013
+Bryson City,785,Swain Co School District,1579,high poverty,9/17/13 0:00,9,17,2013
+Charlotte,786,Charlotte-mecklenburg Sch Dist,1032,highest poverty,9/16/13 0:00,9,16,2013
+Louisburg,787,Franklin Co School District,1019,highest poverty,9/14/13 0:00,9,14,2013
+Charlotte,788,Charlotte-mecklenburg Sch Dist,1457,high poverty,9/12/13 0:00,9,12,2013
+Greensboro,789,Guilford Co Schools,1034,highest poverty,9/12/13 0:00,9,12,2013
+Rockingham,790,Richmond Co School District,1059,highest poverty,9/7/13 0:00,9,7,2013
+Warrenton,791,Warren Co School District,1152,highest poverty,9/7/13 0:00,9,7,2013
+Wake Forest,792,Wake Co School District,8999,moderate poverty,9/6/13 0:00,9,6,2013
+Raleigh,793,Wake Co School District,1023,moderate poverty,9/6/13 0:00,9,6,2013
+Raleigh,794,Wake Co School District,9292,high poverty,9/4/13 0:00,9,4,2013
+Mount Holly,795,Gaston Co School District,1037,high poverty,9/3/13 0:00,9,3,2013
+Charlotte,796,Charlotte-mecklenburg Sch Dist,1444,highest poverty,9/3/13 0:00,9,3,2013
+Greenville,797,Pitt Co School District,1204,high poverty,9/1/13 0:00,9,1,2013
+Durham,798,North Carolina Dept of Ed,1824,moderate poverty,8/30/13 0:00,8,30,2013
+Charlotte,799,Charlotte-mecklenburg Sch Dist,2263,highest poverty,8/28/13 0:00,8,28,2013
+Charlotte,800,Charlotte-mecklenburg Sch Dist,1141,high poverty,8/25/13 0:00,8,25,2013
+Durham,801,Durham Public School District,1755,highest poverty,8/23/13 0:00,8,23,2013
+Hudson,802,Caldwell Co School District,7052,high poverty,8/22/13 0:00,8,22,2013
+Huntersville,803,Charlotte-mecklenburg Sch Dist,1233,high poverty,8/22/13 0:00,8,22,2013
+Asheville,804,Buncombe Co School District,3202,high poverty,8/21/13 0:00,8,21,2013
+Asheville,805,Buncombe Co School District,1180,high poverty,8/19/13 0:00,8,19,2013
+Gaston,806,North Carolina Dept of Ed,1665,highest poverty,8/14/13 0:00,8,14,2013
+Asheville,807,Buncombe Co School District,3201,high poverty,8/13/13 0:00,8,13,2013
+Cary,808,Wake Co School District,1193,moderate poverty,8/9/13 0:00,8,9,2013
+Matthews,809,Charlotte-mecklenburg Sch Dist,3192,high poverty,8/4/13 0:00,8,4,2013
+Shelby,810,North Carolina Dept of Ed,1099,moderate poverty,8/4/13 0:00,8,4,2013
+Charlotte,811,Charlotte-mecklenburg Sch Dist,12199,high poverty,8/2/13 0:00,8,2,2013
+Raleigh,812,Wake Co School District,1214,moderate poverty,7/31/13 0:00,7,31,2013
+Charlotte,813,Charlotte-mecklenburg Sch Dist,7822,high poverty,7/29/13 0:00,7,29,2013
+Matthews,814,Charlotte-mecklenburg Sch Dist,3162,high poverty,7/28/13 0:00,7,28,2013
+Biscoe,815,Montgomery Co School District,1058,highest poverty,7/21/13 0:00,7,21,2013
+Hudson,816,Caldwell Co School District,2679,high poverty,7/21/13 0:00,7,21,2013
+Kernersville,817,Winston-salem Forsyth Co SD,1508,highest poverty,7/18/13 0:00,7,18,2013
+Wake Forest,818,Wake Co School District,7833,moderate poverty,7/17/13 0:00,7,17,2013
+Durham,819,Durham Public School District,1457,highest poverty,7/15/13 0:00,7,15,2013
+Matthews,820,Charlotte-mecklenburg Sch Dist,8992,high poverty,7/14/13 0:00,7,14,2013
+Greensboro,821,Guilford Co Schools,1069,highest poverty,7/13/13 0:00,7,13,2013
+Charlotte,822,Charlotte-mecklenburg Sch Dist,1430,highest poverty,7/13/13 0:00,7,13,2013
+Durham,823,Durham Public School District,1056,high poverty,7/12/13 0:00,7,12,2013
+Durham,824,Durham Public School District,1019,highest poverty,7/9/13 0:00,7,9,2013
+Newport,825,Carteret Co School District,1318,high poverty,7/8/13 0:00,7,8,2013
+Asheville,826,Buncombe Co School District,7091,high poverty,7/6/13 0:00,7,6,2013
+Black Mtn,827,Buncombe Co School District,1078,high poverty,7/3/13 0:00,7,3,2013
+Charlotte,828,Charlotte-mecklenburg Sch Dist,1040,highest poverty,6/29/13 0:00,6,29,2013
+Arden,829,Buncombe Co School District,1053,high poverty,6/22/13 0:00,6,22,2013
+Southern Pnes,830,Moore Co School District,12198,high poverty,6/17/13 0:00,6,17,2013
+Thomasville,831,Thomasville City School Dist,1228,highest poverty,6/14/13 0:00,6,14,2013
+Charlotte,832,Charlotte-mecklenburg Sch Dist,1025,high poverty,5/19/13 0:00,5,19,2013
+Halifax,833,Weldon City School District,1012,highest poverty,5/10/13 0:00,5,10,2013
+Polkton,834,Anson Co School District,1957,highest poverty,5/5/13 0:00,5,5,2013
+Charlotte,835,Charlotte-mecklenburg Sch Dist,1774,low poverty,4/28/13 0:00,4,28,2013
+Charlotte,836,Charlotte-mecklenburg Sch Dist,1049,highest poverty,4/25/13 0:00,4,25,2013
+Greensboro,837,Guilford Co Schools,1826,highest poverty,4/17/13 0:00,4,17,2013
+Smithfield,838,Johnston Co School District,1072,high poverty,4/8/13 0:00,4,8,2013
+Bryson City,839,Swain Co School District,1498,high poverty,4/2/13 0:00,4,2,2013
+Warrenton,840,Warren Co School District,1218,highest poverty,3/31/13 0:00,3,31,2013
+Durham,841,Durham Public School District,1708,highest poverty,3/30/13 0:00,3,30,2013
+Burlington,842,Alamance-burlington Sch Dist,1577,highest poverty,3/29/13 0:00,3,29,2013
+Pineville,843,Charlotte-mecklenburg Sch Dist,1109,highest poverty,3/26/13 0:00,3,26,2013
+Durham,844,Durham Public School District,1969,highest poverty,3/18/13 0:00,3,18,2013
+Charlotte,845,Charlotte-mecklenburg Sch Dist,1429,highest poverty,3/18/13 0:00,3,18,2013
+Tarboro,846,Edgecombe Co Pub Sch Dist,1680,highest poverty,3/17/13 0:00,3,17,2013
+Gibsonville,847,Guilford Co Schools,1137,highest poverty,3/14/13 0:00,3,14,2013
+Newport,848,Carteret Co School District,1053,high poverty,3/12/13 0:00,3,12,2013
+Charlotte,849,Charlotte-mecklenburg Sch Dist,1052,highest poverty,3/10/13 0:00,3,10,2013
+Asheville,850,Buncombe Co School District,1017,high poverty,3/8/13 0:00,3,8,2013
+Raleigh,851,Wake Co School District,1119,moderate poverty,3/5/13 0:00,3,5,2013
+Ash,852,Brunswick Co School District,1069,high poverty,3/3/13 0:00,3,3,2013
+Burgaw,853,Pender Co School District,1009,highest poverty,3/1/13 0:00,3,1,2013
+Mount Holly,854,North Carolina Dept of Ed,1078,moderate poverty,2/27/13 0:00,2,27,2013
+Raeford,855,Hoke Co School District,1084,moderate poverty,2/27/13 0:00,2,27,2013
+Charlotte,856,Charlotte-mecklenburg Sch Dist,2464,highest poverty,2/20/13 0:00,2,20,2013
+Edenton,857,Edenton Chowan School District,1280,high poverty,2/19/13 0:00,2,19,2013
+Raleigh,858,North Carolina Dept of Ed,1137,moderate poverty,2/16/13 0:00,2,16,2013
+Raleigh,859,Wake Co School District,1077,moderate poverty,2/10/13 0:00,2,10,2013
+Charlotte,860,Charlotte-mecklenburg Sch Dist,2527,highest poverty,2/8/13 0:00,2,8,2013
+Burlington,861,Alamance-burlington Sch Dist,1023,highest poverty,2/6/13 0:00,2,6,2013
+Swannanoa,862,North Carolina Dept of Ed,1135,high poverty,2/3/13 0:00,2,3,2013
+Charlotte,863,Charlotte-mecklenburg Sch Dist,1078,highest poverty,1/29/13 0:00,1,29,2013
+Millers Creek,864,Wilkes Co School District,1268,highest poverty,1/27/13 0:00,1,27,2013
+Wilson,865,Wilson Co School District,1025,highest poverty,1/23/13 0:00,1,23,2013
+Charlotte,866,Charlotte-mecklenburg Sch Dist,2471,highest poverty,1/22/13 0:00,1,22,2013
+Ash,867,Brunswick Co School District,1024,high poverty,1/8/13 0:00,1,8,2013
+Charlotte,868,Charlotte-mecklenburg Sch Dist,1306,high poverty,1/7/13 0:00,1,7,2013
+Enfield,869,Halifax Co School District,1048,highest poverty,1/7/13 0:00,1,7,2013
+Burnsville,870,Yancey Co School District,1157,highest poverty,1/6/13 0:00,1,6,2013
+Raleigh,871,Wake Co School District,1390,high poverty,1/6/13 0:00,1,6,2013
+Charlotte,872,Charlotte-mecklenburg Sch Dist,1192,moderate poverty,1/5/13 0:00,1,5,2013

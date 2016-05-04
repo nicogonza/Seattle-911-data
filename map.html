@@ -1,110 +1,133 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Visual analytics</title>
-        
-        <style type="text/css">
-            /* Set a size for our map container, the Google Map will take up 100% of this container */
-            #map {
-                width: 750px;
-                height: 500px;
-            }
-        </style>
-        
-       <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=&sensor=false&libraries=visualization"></script>
-       <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-        
-        <script>
-            // When the window has finished loading create our google map below
-            google.maps.event.addDomListener(window, 'load', init);
-        
-            function init() {
-                // Basic options for a simple Google Map
-                // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
-                var mapOptions = {
-                    // How zoomed in you want the map to start at (always required)
-                    zoom: 11,
+<head>
+    <title>Visual analytics</title>
 
-                    // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(47.612448, -122.329732), // Seattle
+    <style type="text/css">
+        /* Set a size for our map container, the Google Map will take up 100% of this container */
+        #map {
+            width: 750px;
+            height: 500px;
+        }
+    </style>
 
-                    // How you would like to style the map. 
-                    // This is where you would paste any style found on Snazzy Maps.
-                    styles: [{"featureType":"all","elementType":"all","stylers":[{"hue":"#ff0000"},{"saturation":-100},{"lightness":-30}]},{"featureType":"all","elementType":"labels.text.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"color":"#353535"}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#656565"}]},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"color":"#505050"}]},{"featureType":"poi","elementType":"geometry.stroke","stylers":[{"color":"#808080"}]},{"featureType":"road","elementType":"geometry","stylers":[{"color":"#454545"}]},{"featureType":"transit","elementType":"labels","stylers":[{"hue":"#000000"},{"saturation":100},{"lightness":-40},{"invert_lightness":true},{"gamma":1.5}]}]
-                };
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=&libraries=visualization"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
-                // Get the HTML DOM element that will contain your map 
-                // We are using a div with id="map" seen below in the <body>
-                var mapElement = document.getElementById('map');
+    <script>
+        // When the window has finished loading create our google map below
+        google.maps.event.addDomListener(window, 'load', init);
+
+        function init() {
+            // Basic options for a simple Google Map
+            // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+
+            var mapOptions = {
+                // How zoomed in you want the map to start at (always required)
+                zoom: 11,
+
+                // The latitude and longitude to center the map (always required)
+                center: new google.maps.LatLng(47.612448, -122.329732), // Seattle
+
+                // How you would like to style the map.
+                // This is where you would paste any style found on Snazzy Maps.
+                styles: [{
+                    "featureType": "all",
+                    "elementType": "all",
+                    "stylers": [{"hue": "#ff0000"}, {"saturation": -100}, {"lightness": -30}]
+                }, {
+                    "featureType": "all",
+                    "elementType": "labels.text.fill",
+                    "stylers": [{"color": "#ffffff"}]
+                }, {
+                    "featureType": "all",
+                    "elementType": "labels.text.stroke",
+                    "stylers": [{"color": "#353535"}]
+                }, {
+                    "featureType": "landscape",
+                    "elementType": "geometry",
+                    "stylers": [{"color": "#656565"}]
+                }, {
+                    "featureType": "poi",
+                    "elementType": "geometry.fill",
+                    "stylers": [{"color": "#505050"}]
+                }, {
+                    "featureType": "poi",
+                    "elementType": "geometry.stroke",
+                    "stylers": [{"color": "#808080"}]
+                }, {
+                    "featureType": "road",
+                    "elementType": "geometry",
+                    "stylers": [{"color": "#454545"}]
+                }, {
+                    "featureType": "transit",
+                    "elementType": "labels",
+                    "stylers": [{"hue": "#000000"}, {"saturation": 100}, {"lightness": -40}, {"invert_lightness": true}, {"gamma": 1.5}]
+                }]
+            };
+
+            // Get the HTML DOM element that will contain your map
+            // We are using a div with id="map" seen below in the <body>
+            var mapElement = document.getElementById('map');
 
 
-                // Create the Google Map using our element and options defined above
-                var map = new google.maps.Map(mapElement, mapOptions);
+            // Create the Google Map using our element and options defined above
+            var map = new google.maps.Map(mapElement, mapOptions);
 
-                //data for heatmap
+            //populate map using heatmap
+            heatmap = new google.maps.visualization.HeatmapLayer({
+                data: getItems(),
+                map: map
+            });
 
+        }
 
-  var items = [];
-  var markers = [];
-  var dataApi = "https://data.seattle.gov/resource/grwu-wqtk.json";
-  var json = $.getJSON( dataApi, function(data) {
-  console.log( "success" );
+        function getItems() {
+            var items = [];
+            var dataApi = "https://data.seattle.gov/resource/grwu-wqtk.json";
 
-  $.each(data, function( key, val ) {
-    console.log(key+ "value"+val)
-    console.log(val.latitude + ","+ val.longitude)
-    items.push(new google.maps.LatLng(val.latitude, val.longitude));
-    markers.push(new google.maps.Marker({
-                    position: new google.maps.LatLng(val.latitude, val.longitude),
+            var json = $.getJSON(dataApi, function (data) {
+                console.log("success");
+                $.each(data, function (key, val) {
+                    items.push((new google.maps.LatLng(val.latitude, val.longitude)));
+                    console.log("something pushed to items");
+                });
+
+            });
+            console.log("items");
+            console.log(items.length);
+            return items;
+        }
+
+        function getMarkers(map) {
+
+            var markers=[];
+            var items = getItems();
+            console.log(items);
+
+            items.forEach(function(pos){
+                var image = './rectangle.png';
+                var marker = new google.maps.Marker({
+                    position: pos,
                     map: map,
                     title: "test",
                     //if false maker will not show
-                    visible: false
-                }))
-  });
-  console.log(items);
-  console.log(markers);
-});
-
-
-
-                
-                var heatmap = new google.maps.visualization.HeatmapLayer({
-                 data: items,
-                 map: map
+                    visible: true,
+                    //icon: image
+                    });
+                    markers.push(marker);
                 });
-                // adding the info view
-                  var contentString = '<div id="content">'+
-      '<div id="siteNotice">'+
-      '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Uluru</h1>'+
-      '<div id="bodyContent">'+
-      '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
-      'sandstone rock formation in the southern part of the '+
-      'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) '+
-      'south west of the nearest large town, Alice Springs; 450&#160;km '+
-      '(280&#160;mi) by road. Kata Tjuta and Uluru are the two major '+
-      'features of the Uluru - Kata Tjuta National Park. Uluru is '+
-      'sacred to the Pitjantjatjara and Yankunytjatjara, the '+
-      'Aboriginal people of the area. It has many springs, waterholes, '+
-      'rock caves and ancient paintings. Uluru is listed as a World '+
-      'Heritage Site.</p>'+
-      '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
-      'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
-      '(last visited June 22, 2009).</p>'+
-      '</div>'+
-      '</div>';
-      var infowindow = new google.maps.InfoWindow({
-    content: contentString
-  });
-      2
-            }
-        </script>
-    </head>
-    <body>
-        <h1>Map visualization</h1>
 
-        <!-- The element that will contain our Google Map. This is used in both the Javascript and CSS above. -->
-        <div id="map"></div>
-    </body>
+            console.log(markers);
+            return markers;
+        }
+
+    </script>
+</head>
+<body>
+<h1>Map visualization</h1>
+
+<!-- The element that will contain our Google Map. This is used in both the Javascript and CSS above. -->
+<div id="map"></div>
+</body>
 </html>
